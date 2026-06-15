@@ -1,0 +1,1081 @@
+House_ID,House_Name,Location,BHK,Monthly_Rent,Area_sqft,Furnishing_Status,Floor_Type,Parking_Available,Distance_to_Metro_km,Amenities_Score,Listed_Date,Target_Tenant,Rating
+1,Budget Homes 36,Koramangala,3bhk,32000.26,1252.2,UNFURNISHED,Ground Floor,No,1.77,6.9,17-05-2025,any,3.1
+2,Metro View 18,Electronic City,1BHK,27356.62,2407.3,unfurnished,Ground Floor,YES,9.11,2.8,02-02-2025,Family,3.1
+3,Royal Residency 20,BTM Layout,2BHK,26289.82,832.5,Semi-Furnished,Mid Rise,no,7.8,2,21-04-2027,bachelor,1.4
+4,Comfort Villa 92,indiranagar,2bhk,10636.48,1080.6,semi-furnished,low rise,No,8.99,1.4,20-06-2025,Family,2
+5,Budget Homes 90,btm layout,3 BHK,32367.23,1479.5,unfurnished,GROUND FLOOR,YES,4.53,2.5,03-04-2026,BACHELOR,4.9
+6,Lake View Residency 80,jayanagar,3bhk,32082.86,1895.8,semi-furnished,Mid Rise,NO,2.12,1.3,19-04-2025,family,6.5
+7,Urban Heights 11,indiranagar,3 BHK,27400.97,2179.4,semi-furnished,low rise,No,4.38,6.3,08-01-2025,bachelor,4.9
+8,Sunshine Residency 45,JP NAGAR,3bhk,43942.61,2035,furnished,Low Rise,no,4.68,3.3,04-May-26,Bachelor,4
+9,Royal Residency 9,electronic city,2bhk,20863.19,1938.6,unfurnished,Mid Rise,YES,7.39,6.4,08-03-2026,BACHELOR,2.2
+10,Royal Residency 25,jayanagar,3BHK,30404.81,2882.3,Furnished,low rise,No,8.14,5.7,13-09-2026,bachelor,4.1
+11,Royal Residency 45,HSR Layout,2BHK,16847.42,1624.1,semi-furnished,Low Rise,no,9.25,1.5,31-05-2027,any,2.8
+12,Sunshine Residency 78,Whitefield,3BHK,33616.53,528.8,unfurnished,GROUND FLOOR,YES,3.25,1.5,16-06-2025,BACHELOR,4.8
+13,Urban Heights 66,jayanagar,2bhk,23414.85,1431.2,Furnished,Mid Rise,No,7.03,6.8,25-10-2025,BACHELOR,4.9
+14,Royal Residency 28,btm layout,4 BHK,41624.31,2018.3,Semi-Furnished,HIGH RISE,Yes,0.88 km,3.6,18-03-2027,BACHELOR,7.6
+15,Royal Residency 70,Jayanagar,1bhk,16183.78,480.8,furnished,High Rise,No,4.3,6.3,19-07-2026,BACHELOR,
+16,Sunshine Residency 52,btm layout,3BHK,32040.64,1347.9,UNFURNISHED,HIGH RISE,yes,4.99,6.6,24-Dec-26,Any,3.8
+17,Sunshine Residency 82,HSR Layout,3BHK,38000.63,438,FURNISHED,low rise,YES,0.79,1.5,17-Feb-26,Any,1.8
+18,Royal Residency 50,Indiranagar,2bhk,29901.87,1686.1,UNFURNISHED,Mid Rise,Yes,7.08,2.5,24-02-2025,any,4.9
+19,Urban Heights 5,WHITEFIELD,1 BHK,20634.3,2114.2,unfurnished,Low Rise,NO,9.32,9.9,17-07-2025,Family,2.7
+20,Comfort Villa 94,btm layout,4 BHK,35375.53,738.5,UNFURNISHED,low rise,No,8.57,,27-08-2026,Bachelor,3.4
+21,City Homes 65,indiranagar,3bhk,31355.75,1456.9,semi-furnished,GROUND FLOOR,Yes,7.05,9.1,17-Jun-26,bachelor,3.4
+22,Metro View 51,indiranagar,2 BHK,24987.7,1877.2,unfurnished,Low Rise,no,4.55,9.1,04-Apr-26,any,2.8
+23,Metro View 29,  WHITEFIELD  ,2BHK,13310.11,470.5,semi-furnished,HIGH RISE,yes,1.77,4.4,27-11-2026,Any,
+24,Urban Heights 33,KORAMANGALA,1 BHK,11253.13,1022,unfurnished,GROUND FLOOR,yes,6.61,1.4,27-02-2025,Family,3.7
+25,Urban Heights 75,KORAMANGALA,1BHK,14323.71,413,unfurnished,HIGH RISE,yes,7.62,2.7,21-03-2025,Bachelor,2.2
+26,Metro View 83,Koramangala,2BHK,16744.78,1856,FURNISHED,HIGH RISE,Yes,4.6,2.6,23-Jul-25,Bachelor,4.6
+27,Comfort Villa 1,Koramangala,2BHK,30220.32,2195.7,Unfurnished,High Rise,Yes,9.2,6.4,08-Mar-26,BACHELOR,4.2
+28,City Homes 32,BTM Layout,4 BHK,39087.96,1790.9,Furnished,Low Rise,NO,7.06,3.5,02-05-2025,Bachelor,4
+29,Budget Homes 9,HSR Layout,3 BHK,25290.32,2396.1,Unfurnished,low rise,No,3.56,2.5,09-Sep-26,any,3.6
+30,Lake View Residency 9,Hebbal,3BHK,24026.29,2096.7,Unfurnished,HIGH RISE,NO,7.11,9,18-05-2027,bachelor,4.5
+31,Urban Heights 7,KORAMANGALA,3bhk,35801.91,2830.5,FURNISHED,Mid Rise,yes,5.93,1.5,01-08-2026,family,3.3
+32,Lake View Residency 60,electronic city,4 BHK,50320.95,1676.4,FURNISHED,ground floor,Yes,0.75,6.4,01-02-2026,BACHELOR,2.3
+33,City Homes 56,Marathahalli,2 BHK,25814.35,2399.7,semi-furnished,Low Rise,Yes,5.55,3.1,04-04-2026,Bachelor,4.1
+34,Comfort Villa 23,indiranagar,3BHK,27490.17,2025.4,Unfurnished,Ground Floor,YES,5.98,9.3,25-06-2027,FAMILY,1.6
+35,Royal Residency 66,HSR Layout,1 BHK,8812.13,1804.3,Unfurnished,ground floor,no,4.94,,09-04-2026,family,1.9
+36,Urban Heights 67,Whitefield,3 BHK,39514.03,632.1,furnished,GROUND FLOOR,Yes,9.67,8.1,22-03-2025,FAMILY,3
+37,Elite Apartments 7,Koramangala,2 BHK,17885.36,2836,Unfurnished,Mid Rise,Yes,,1.7,21-Jan-26,family,4.5
+38,City Homes 42,Marathahalli,2BHK,24467.94,2329.9,Furnished,Ground Floor,yes,3.58,,18-06-2027,any,3
+39,Comfort Villa 82,KORAMANGALA,2BHK,20129.1,2603.3,Furnished,ground floor,YES,4.03,8.4,07-04-2026,BACHELOR,4.7
+40,Sunshine Residency 9,electronic city,2bhk,11034.01,529.1,FURNISHED,High Rise,YES,7.74,3.1,21-12-2026,BACHELOR,1.8
+41,Metro View 73,JP NAGAR,1BHK,15432.31,2386.6,FURNISHED,Low Rise,Yes,6.38,8.2,20-03-2026,Bachelor,1.3
+42,Royal Residency 82,JP NAGAR,1bhk,10147.02,1679.1,Unfurnished,GROUND FLOOR,No,5.62,6.7,01-03-2025,FAMILY,4.5
+43,Sunshine Residency 29,WHITEFIELD,1 BHK,14095.39,1998.1,Semi-Furnished,Mid Rise,no,4.34,9.1,05-09-2026,FAMILY,2.1
+44,Budget Homes 55,  Koramangala  ,2BHK,22427.45,1478.4,Unfurnished,High Rise,no,6.82 km,6.1,12-02-2027,FAMILY,2.4
+45,Comfort Villa 28,Indiranagar,2 BHK,23328.87,2253.1,furnished,Low Rise,YES,6.18,6.5,18-May-25,Any,4.1
+46,Green Park Apartments 62,jayanagar,1 BHK,9119.95,1957.4,Semi-Furnished,Low Rise,Yes,0.96,8.5,21-11-2025,Family,3.4
+47,Budget Homes 99,Whitefield,3bhk,28035.42,672.6,furnished,HIGH RISE,no,0.23,1,03-05-2027,FAMILY,3.1
+48,Elite Apartments 32,btm layout,2BHK,,989.9,Semi-Furnished,ground floor,NO,9.05,6.8,26-Mar-25,bachelor,9.4
+49,Elite Apartments 98,electronic city,3bhk,31358.98,2408.4,semi-furnished,Low Rise,no,7.93,4.8,28-04-2025,BACHELOR,4.4
+50,Elite Apartments 55,Marathahalli,2bhk,17545.62,574.1,FURNISHED,High Rise,NO,7.59,9,23-01-2027,Bachelor,2.5
+51,Comfort Villa 92,btm layout,1bhk,19271.71,1719.8,Furnished,GROUND FLOOR,YES,0.35,4.4,06-06-2027,any,2.2
+52,Royal Residency 47,electronic city,1 BHK,8962.26,2454.2,FURNISHED,Low Rise,yes,4.7,2.2,01-10-2026,FAMILY,4.5
+53,Sunshine Residency 91,Koramangala,4 BHK,50212.31,2600.9,unfurnished,Ground Floor,YES,6,2.9,13-07-2025,Bachelor,3
+54,Green Park Apartments 14,btm layout,2BHK,10,1904.6,UNFURNISHED,Mid Rise,YES,2.4,1.4,06-Mar-25,Bachelor,5
+55,Metro View 60,indiranagar,1BHK,14334.28,746.3,UNFURNISHED,low rise,no,8.83,7.1,16-05-2026,any,1.6
+56,Comfort Villa 54,electronic city,3 BHK,27381.57,1641.2,furnished,low rise,yes,7.61,2.1,29-04-2027,Bachelor,4.8
+57,Urban Heights 10,KORAMANGALA,2BHK,27514.58,2424.2,Semi-Furnished,High Rise,No,0.92,3.8,11-06-2027,FAMILY,1.5
+58,Elite Apartments 9,Hebbal,1BHK,12760.37,1449,unfurnished,Ground Floor,no,9.66 km,8.2,24-04-2025,Family,1.3
+59,Metro View 68,btm layout,2bhk,12661.71,1620.5,UNFURNISHED,HIGH RISE,no,7.76,1.8,04-04-2027,Family,3.4
+60,Metro View 66,electronic city,2 BHK,25316.55,2365.7,UNFURNISHED,Low Rise,NO,1.44,6.8,15-Jun-26,bachelor,4.2
+61,Comfort Villa 85,btm layout,1 BHK,14116.23,411.8,Furnished,Mid Rise,yes,8.35,8.3,04-07-2026,FAMILY,1.4
+62,Budget Homes 42,Indiranagar,3 BHK,32673.61,2963.1,Unfurnished,low rise,NO,5.85,3.8,09-Aug-26,Bachelor,2.5
+63,Metro View 86,KORAMANGALA,2BHK,25147.04,1396.6,UNFURNISHED,Ground Floor,NO,4.4,6.5,24-05-2027,any,2.4
+64,Sunshine Residency 32,JP NAGAR,1BHK,14056.6,718.1,UNFURNISHED,HIGH RISE,NO,1.9,3.4,27-Oct-25,BACHELOR,2
+65,Royal Residency 2,Whitefield,2bhk,21486.9,2073.2,Unfurnished,Mid Rise,Yes,4.66,,30-06-2027,FAMILY,4.6
+66,Elite Apartments 44,Hebbal,1bhk,15486.32,1339,Furnished,HIGH RISE,YES,3.96,7.8,25-03-2026,Bachelor,4.9
+67,Metro View 35,KORAMANGALA,2 BHK,26957.62,867.5,Semi-Furnished,Ground Floor,NO,4.16,6.7,12-Nov-25,any,1.4
+68,Comfort Villa 68,Whitefield,3 BHK,,2264.9,UNFURNISHED,Ground Floor,no,8.29,9.1,09-04-2027,Family,3.9
+69,Elite Apartments 89,hsr layout,3 BHK,28630.88,1826.4,FURNISHED,GROUND FLOOR,Yes,5.83,4.3,06-02-2027,Bachelor,4.1
+70,Sunshine Residency 50,Indiranagar,2bhk,9950.21,2545.9,FURNISHED,HIGH RISE,no,8.47,3.5,12-12-2025,FAMILY,4.4
+71,Elite Apartments 47,Whitefield,3BHK,34201.59,691.2,furnished,GROUND FLOOR,NO,6.05,4.9,11-Mar-26,bachelor,4.8
+72,Green Park Apartments 46,JP NAGAR,1bhk,6869.63,1227.3,Semi-Furnished,HIGH RISE,No,4.09,7.3,11-03-2026,bachelor,4.4
+73,Metro View 54,  JP NAGAR  ,2BHK,24569.8,2797.6,semi-furnished,GROUND FLOOR,YES,0.73,8,30-08-2025,FAMILY,3.7
+74,City Homes 78,btm layout,2BHK,22605.16,-100,semi-furnished,Ground Floor,NO,1.34,3.2,10-07-2026,Bachelor,5
+75,Comfort Villa 99,hsr layout,3bhk,38990.05,459.7,UNFURNISHED,High Rise,yes,1.56,5.1,29-08-2026,any,1.2
+76,Urban Heights 64,jayanagar,3bhk,34315.91,2382.8,Furnished,Mid Rise,YES,6.14,3,08-Apr-27,BACHELOR,2.9
+77,Metro View 26,Indiranagar,2 BHK,25768.52,2524.3,unfurnished,High Rise,no,2.46,4.4,07-Jul-25,Bachelor,1.2
+78,Royal Residency 28,  KORAMANGALA  ,2BHK,12444.39,986.6,Semi-Furnished,Mid Rise,NO,8.38,2.3,11-09-2026,Family,3
+79,Comfort Villa 55,electronic city,3BHK,34076.99,1540,furnished,low rise,no,8.56,1.2,31-May-27,FAMILY,4.9
+80,Sunshine Residency 14,Hebbal,1bhk,22506.06,1116.9,Semi-Furnished,High Rise,Yes,5.08,7.6,27-01-2026,Any,2.5
+81,Comfort Villa 77,Jayanagar,4 BHK,44720.82,1471.4,Unfurnished,Low Rise,no,0.2,4.3,03-02-2026,bachelor,2.9
+82,City Homes 22,KORAMANGALA,3bhk,39774.54,1784.4,Unfurnished,Ground Floor,No,7.23,4.9,10-07-2026,family,2.4
+83,Green Park Apartments 32,Marathahalli,3bhk,41332.16,832.4,Unfurnished,ground floor,,2.25,5.5,25-09-2025,Bachelor,1.7
+84,Sunshine Residency 51,Jayanagar,1bhk,20016.68,912.2,Furnished,Ground Floor,No,0.92,2.2,20-02-2025,FAMILY,2.2
+85,Royal Residency 58,KORAMANGALA,2bhk,21121.26,2665.2,FURNISHED,Mid Rise,NO,3.61,9.1,09-Jan-26,Any,3.4
+86,Green Park Apartments 35,Electronic City,3bhk,29878.9,649.1,Semi-Furnished,Ground Floor,No,8.62,6.4,17-08-2025,FAMILY,1.4
+87,City Homes 12,WHITEFIELD,2bhk,20132.42,2424.7,furnished,Mid Rise,yes,5.12,,29-06-2025,Family,4.4
+88,Royal Residency 49,KORAMANGALA,3BHK,26094.54,2197.1,furnished,HIGH RISE,YES,1.75,1.1,09-03-2026,Any,2
+89,Lake View Residency 99,Whitefield,1 BHK,17698.93,686,Furnished,Mid Rise,Yes,5.32,1.1,02-12-2026,BACHELOR,2.4
+90,City Homes 11,JP NAGAR,3bhk,35048.78,2542.7,furnished,Ground Floor,Yes,5.38,3.2,30-12-2025,Any,
+91,Royal Residency 76,JP NAGAR,4 BHK,40783.52,595,Semi-Furnished,High Rise,YES,1.82,6.1,12-Aug-26,Any,1.2
+92,Urban Heights 33,indiranagar,1BHK,6421.75,603.6,furnished,low rise,,2.85,3.2,21-06-2025,Family,1.6
+93,Comfort Villa 78,Koramangala,1bhk,5330.67,937.4,furnished,Ground Floor,No,1.33,1.2,18-01-2027,BACHELOR,1.8
+94,Urban Heights 53,Jayanagar,3 BHK,,2993,semi-furnished,Mid Rise,YES,0.75,9.2,11-05-2025,bachelor,1.9
+95,City Homes 34,electronic city,3BHK,37323.87,2872.7,semi-furnished,Low Rise,NO,7.86,8,14-Mar-26,BACHELOR,3.8
+96,Royal Residency 62,JP NAGAR,3 BHK,27331.85,1240.9,Semi-Furnished,Ground Floor,Yes,9.26,9.1,07-02-2025,any,2.5
+97,Lake View Residency 73,Electronic City,1BHK,21739.33,1390.1,Semi-Furnished,Low Rise,YES,9.21,6.1,16-08-2025,BACHELOR,4.1
+98,Budget Homes 59,Koramangala,1BHK,22614.32,800.2,Furnished,HIGH RISE,YES,2.98,6.3,19-Nov-26,any,
+99,Sunshine Residency 57,  HSR Layout  ,4 BHK,43258.3,,Semi-Furnished,HIGH RISE,NO,9.39,6.8,01-Dec-26,Any,4.6
+100,City Homes 73,Whitefield,2bhk,31201.07,2386.4,Furnished,Low Rise,NO,6.47,2.5,10-02-2025,Family,2.4
+101,Green Park Apartments 79,indiranagar,3 BHK,33637.72,1102.2,unfurnished,Low Rise,No,4.78,8.9,11-05-2026,Family,4.3
+102,Elite Apartments 68,Electronic City,3BHK,33218.66,1602.8,unfurnished,HIGH RISE,NO,2.26,7.1,23-Oct-25,FAMILY,2.5
+103,Green Park Apartments 28,indiranagar,4 BHK,50929.54,1528.5,unfurnished,GROUND FLOOR,yes,6.38,8.2,06-07-2026,Bachelor,4.6
+104,City Homes 77,electronic city,4 BHK,40493.7,1542.9,FURNISHED,HIGH RISE,,6.75,9.4,08-06-2027,FAMILY,2
+105,City Homes 27,JP Nagar,2bhk,20610.7,1235.9,semi-furnished,Ground Floor,No,6.02,3.6,10-03-2026,BACHELOR,1.9
+106,Elite Apartments 54,Whitefield,4 BHK,43529.55,1988.1,Unfurnished,High Rise,no,5.97,,08-Apr-25,family,1.8
+107,Elite Apartments 50,electronic city,3 BHK,36689.11,905.4,Semi-Furnished,HIGH RISE,yes,5.45,1.5,13-Dec-26,bachelor,2
+108,City Homes 42,WHITEFIELD,4 BHK,48926.72,2536.3,UNFURNISHED,ground floor,Yes,3.43,3.3,21-02-2025,BACHELOR,1.5
+109,Green Park Apartments 100,jayanagar,3bhk,33444.61,734.4,furnished,Low Rise,NO,6.49,9.5,08-02-2027,Any,5
+110,Elite Apartments 97,btm layout,1BHK,13332.19,627.8,Unfurnished,Low Rise,no,1.34 km,5.8,06-07-2026,Bachelor,2.6
+111,Green Park Apartments 17,Indiranagar,2BHK,18307.79,747.9,semi-furnished,High Rise,Yes,5.76,1.4,22-06-2025,family,
+112,City Homes 52,Indiranagar,4 BHK,42501.07,2107.8,Furnished,GROUND FLOOR,yes,5.13,8.7,04-Jun-25,family,1.8
+113,Urban Heights 68,KORAMANGALA,1bhk,9460.27,1938.2,Semi-Furnished,HIGH RISE,YES,2.87,2,06-06-2026,any,4
+114,Metro View 11,Indiranagar,1 BHK,12038,2029.1,Furnished,Mid Rise,NO,8.98,9.8,15-12-2026,BACHELOR,2.8
+115,City Homes 87,Jayanagar,3BHK,31685.43,1202.7,Unfurnished,Low Rise,No,7.71,3.9,24-May-26,family,1
+116,Urban Heights 20,btm layout,2bhk,13961.82,2404.6,UNFURNISHED,High Rise,yes,1.22,3.2,24-07-2025,Bachelor,2.9
+117,City Homes 1,KORAMANGALA,2 BHK,25518.47,1760.8,unfurnished,ground floor,NO,2.72,6.5,03-01-2025,BACHELOR,3.5
+118,Sunshine Residency 22,WHITEFIELD,1bhk,13322.27,1741.2,FURNISHED,Low Rise,no,2.68,3.6,11-01-2026,any,5
+119,City Homes 37,KORAMANGALA,2BHK,23050.25,1036.4,UNFURNISHED,HIGH RISE,YES,8.37,5.7,10-07-2025,any,1.3
+120,Royal Residency 54,Marathahalli,2 BHK,25860.95,1600.6,Unfurnished,GROUND FLOOR,YES,5.44,4.3,22-11-2025,family,4.5
+121,City Homes 5,Electronic City,3bhk,500000,1583.7,unfurnished,Low Rise,NO,2.25,6.5,16-08-2025,FAMILY,3.4
+122,Sunshine Residency 2,Electronic City,3BHK,30282.12,2782.2,UNFURNISHED,low rise,yes,8.41 km,3.6,02-07-2025,any,3.2
+123,Lake View Residency 93,KORAMANGALA,2BHK,24531.13,1171.2,semi-furnished,Ground Floor,yes,5.36 km,9.9,23-09-2026,Family,2.1
+124,Metro View 14,WHITEFIELD,3 BHK,26043.31,2373.6,unfurnished,ground floor,YES,1.71,1.1,08-Oct-26,family,4.4
+125,Lake View Residency 72,Whitefield,2 BHK,16297.67,453.7,Semi-Furnished,Low Rise,no,3.44,6.7,07-Jul-25,Bachelor,3
+126,Sunshine Residency 5,electronic city,1bhk,14194.21,2693.2,furnished,ground floor,YES,0.78,6.1,26-Jan-27,Bachelor,4.5
+127,Elite Apartments 49,WHITEFIELD,2bhk,23465.77,847.3,semi-furnished,HIGH RISE,,9.18,9.5,07-11-2026,BACHELOR,2.9
+128,Elite Apartments 38,Whitefield,1 BHK,23568.94,1126.2,Semi-Furnished,HIGH RISE,no,2.14,3.2,18-May-25,BACHELOR,4.7
+129,Elite Apartments 100,Jayanagar,1BHK,12335.45,1251,UNFURNISHED,low rise,Yes,6.09,1.3,07-Dec-26,BACHELOR,2.5
+130,Green Park Apartments 78,jayanagar,2 BHK,29844.83,2984.5,UNFURNISHED,Ground Floor,No,3.62,1,10-10-2025,FAMILY,2.2
+131,Green Park Apartments 32,Indiranagar,1bhk,18082.35,1868.3,unfurnished,High Rise,No,8.27,5.7,18-04-2026,any,1.4
+132,Lake View Residency 88,jayanagar,1 BHK,12139.87,896,FURNISHED,HIGH RISE,YES,3.29,3,07-08-2025,FAMILY,3.4
+133,Metro View 69,BTM Layout,2 BHK,24455.36,1663.8,Unfurnished,GROUND FLOOR,no,2.92,8.6,23-02-2025,BACHELOR,2.5
+134,Lake View Residency 84,JP NAGAR,2BHK,10626.7,1485,Semi-Furnished,High Rise,Yes,0.63,9.5,31-01-2026,Any,
+135,City Homes 47,HSR Layout,2bhk,21057.36,2684.7,unfurnished,Low Rise,NO,4,7.9,16-11-2026,any,1.3
+136,City Homes 33,Marathahalli,3BHK,29095.43,1779.9,Semi-Furnished,ground floor,YES,0.94,5.4,06-10-2025,FAMILY,3.1
+137,Royal Residency 14,jayanagar,3BHK,19380.31,1172,FURNISHED,HIGH RISE,No,9.11,5.8,25-10-2025,Family,1.9
+138,Green Park Apartments 52,electronic city,4 BHK,44713.08,1023.5,FURNISHED,low rise,no,8.58,5.8,03-04-2025,BACHELOR,3
+139,Elite Apartments 62,Indiranagar,3 BHK,37000.87,2369.6,Furnished,Mid Rise,no,4.61,8.3,23-Dec-25,any,2
+140,Budget Homes 81,  Marathahalli  ,2bhk,21431.85,2053.5,furnished,Mid Rise,NO,3.15 km,4.9,14-03-2027,FAMILY,2.9
+141,Sunshine Residency 98,JP NAGAR,3bhk,,2573.5,Unfurnished,Mid Rise,,3.67,2.6,29-03-2025,bachelor,2.1
+142,Metro View 100,WHITEFIELD,2bhk,25269.92,1918.8,furnished,High Rise,No,1.31 km,10,01-05-2025,Family,4.4
+143,Sunshine Residency 71,Marathahalli,1bhk,15066.88,413.2,unfurnished,low rise,Yes,6.15,6.8,04-07-2025,Family,1.3
+144,Comfort Villa 11,Indiranagar,1BHK,-1000,1712.1,Furnished,ground floor,Yes,9.51,1.2,02-11-2026,FAMILY,3.1
+145,Budget Homes 97,Jayanagar,2 BHK,27180.71,1901.9,unfurnished,Low Rise,no,8.91 km,7.3,14-03-2025,Any,4.7
+146,City Homes 44,electronic city,2BHK,22886.53,537.4,semi-furnished,ground floor,No,7.2,4.9,15-02-2026,Any,
+147,Sunshine Residency 74,Electronic City,3BHK,38373.19,2940.8,unfurnished,High Rise,YES,9.91,8.7,05-06-2025,Bachelor,3.7
+148,Royal Residency 7,btm layout,2bhk,26563.18,2330,furnished,GROUND FLOOR,No,5.57 km,8.2,23-03-2026,BACHELOR,2
+149,Royal Residency 67,Marathahalli,1 BHK,14295.63,1477.2,Unfurnished,Ground Floor,yes,9.06,9.9,12-07-2025,bachelor,3.7
+150,Comfort Villa 92,jayanagar,1 BHK,16720.65,2143.5,Unfurnished,GROUND FLOOR,YES,7.49,3.4,24-10-2025,any,7
+151,Comfort Villa 95,indiranagar,3bhk,25502.62,1821.2,UNFURNISHED,Mid Rise,yes,6.25,2.5,22-05-2027,bachelor,1.8
+152,City Homes 28,Electronic City,1BHK,12339.9,2527.9,Furnished,Low Rise,no,5.33,5.7,09-07-2025,FAMILY,2
+153,City Homes 43,hsr layout,2BHK,23389.52,1255.6,UNFURNISHED,low rise,yes,7.94,4.3,25-04-2025,BACHELOR,4.3
+154,Elite Apartments 63,Koramangala,1BHK,20865.7,1995.3,FURNISHED,GROUND FLOOR,No,3.75,3.6,28-05-2027,family,1.8
+155,Royal Residency 74,btm layout,3BHK,36584.78,656.8,furnished,Low Rise,no,nan km,3,29-08-2026,bachelor,3.5
+156,Sunshine Residency 19,  Jayanagar  ,1 BHK,16183.26,911,Unfurnished,GROUND FLOOR,NO,2.11,4.3,14-08-2025,Any,
+157,Royal Residency 66,KORAMANGALA,3bhk,39284.99,,furnished,GROUND FLOOR,Yes,8.34,8,14-05-2027,BACHELOR,2.1
+158,Comfort Villa 71,btm layout,1 BHK,11475.05,864.2,unfurnished,low rise,no,1.86,7,25-01-2027,Any,1.4
+159,Sunshine Residency 88,KORAMANGALA,3BHK,21294.85,849.7,Semi-Furnished,HIGH RISE,yes,7.2,9.3,10-Jun-26,family,3.1
+160,City Homes 26,electronic city,2bhk,19380.98,708.1,UNFURNISHED,High Rise,,0.57,1.9,16-08-2025,family,1.9
+161,City Homes 24,jayanagar,2BHK,19070.71,720.3,UNFURNISHED,GROUND FLOOR,no,5.67 km,1.4,05-Apr-25,FAMILY,2.3
+162,Royal Residency 66,Hebbal,1 BHK,24596.13,1359.9,Semi-Furnished,Low Rise,NO,6.03,6.8,13-08-2026,FAMILY,4.6
+163,City Homes 67,BTM Layout,3 BHK,29324.24,2009.5,unfurnished,low rise,Yes,8.53,7.8,31-May-26,family,2.2
+164,Budget Homes 3,jayanagar,1bhk,14048.91,952.8,furnished,GROUND FLOOR,no,5.2,4.1,19-04-2027,any,1.9
+165,Metro View 85,Whitefield,4 BHK,34036.83,2564,unfurnished,Ground Floor,YES,9.14,9.8,13-11-2026,BACHELOR,1.7
+166,Urban Heights 12,jayanagar,1bhk,18206.75,2680.3,Semi-Furnished,Ground Floor,No,,7.6,15-Sep-26,bachelor,2.9
+167,Metro View 96,Electronic City,2bhk,15646.78,1121.7,unfurnished,Ground Floor,YES,5.59,2.3,09-08-2026,Family,2.5
+168,Lake View Residency 41,JP Nagar,4 BHK,43906.03,1614,Unfurnished,Mid Rise,YES,9.69,3.6,05-11-2025,BACHELOR,3.5
+169,City Homes 19,HSR Layout,3 BHK,29713.63,815.1,unfurnished,Mid Rise,no,9.76,9,15-09-2025,Family,4.2
+170,City Homes 74,Marathahalli,2BHK,18582.94,2956,FURNISHED,HIGH RISE,YES,0.82,4.2,09-01-2026,Family,3.3
+171,Metro View 97,Indiranagar,1BHK,11068.8,2262.8,semi-furnished,ground floor,NO,8.56,5.9,18-Apr-25,Family,1.4
+172,Royal Residency 52,  WHITEFIELD  ,2bhk,26437.47,599.4,Furnished,low rise,yes,6.71,1.3,08-02-2025,Any,3
+173,Green Park Apartments 93,Marathahalli,4 BHK,46522.82,1422.4,FURNISHED,Low Rise,yes,5.69,5.8,07-02-2025,Any,4.7
+174,Urban Heights 44,jayanagar,3BHK,34561.36,2821.9,FURNISHED,low rise,Yes,3.38,1.3,31-03-2026,bachelor,4.9
+175,Comfort Villa 99,JP Nagar,3bhk,31781.82,2803.6,Unfurnished,Low Rise,no,6.32,3.9,18-05-2025,Family,3.9
+176,Metro View 49,Hebbal,2bhk,23558.98,2961.1,Unfurnished,Low Rise,NO,3.57,5.1,20-07-2025,Family,1.7
+177,Royal Residency 57,electronic city,1bhk,22391.69,1961.8,semi-furnished,Low Rise,yes,8.31,1.8,30-05-2026,Family,1.7
+178,Comfort Villa 50,JP Nagar,3bhk,32900.61,1842.9,unfurnished,GROUND FLOOR,No,7.95,3,29-Nov-25,Bachelor,3.1
+179,Comfort Villa 17,Jayanagar,4 BHK,46967.98,918.1,Semi-Furnished,Mid Rise,,9.47,4.7,14-Nov-26,family,1.9
+180,Metro View 27,JP Nagar,3BHK,30233.51,2473.5,Semi-Furnished,low rise,YES,6.99,8.1,13-08-2025,any,2.4
+181,Metro View 98,Electronic City,3BHK,27840.26,1059.9,FURNISHED,low rise,Yes,3.09,2.7,22-07-2025,Family,4.5
+182,Urban Heights 3,HSR Layout,2bhk,26661.3,561.4,FURNISHED,low rise,NO,2.41,2.4,22-03-2027,Any,8.5
+183,Sunshine Residency 67,Whitefield,3bhk,36046.23,2824,UNFURNISHED,HIGH RISE,No,3.86,4.9,29-11-2026,bachelor,3.2
+184,Comfort Villa 48,JP NAGAR,1bhk,13261.41,1764.6,Unfurnished,GROUND FLOOR,Yes,4.01,7.1,03-02-2026,Bachelor,1.8
+185,Royal Residency 82,Koramangala,3bhk,35773.92,99999,FURNISHED,ground floor,yes,2.22,4.5,27-06-2026,Bachelor,3.3
+186,Urban Heights 68,indiranagar,3 BHK,35634.49,1715.1,furnished,High Rise,No,9.23,4.8,28-02-2025,Bachelor,3.7
+187,Sunshine Residency 43,Whitefield,1BHK,14510.74,1973.5,FURNISHED,Mid Rise,YES,5.09,9,05-05-2025,Any,2.9
+188,Comfort Villa 26,BTM Layout,1BHK,14383.14,2783.8,Unfurnished,Mid Rise,NO,4.72 km,7.7,13-12-2026,Any,4.5
+189,Royal Residency 47,btm layout,1bhk,21622.84,2333.4,Semi-Furnished,GROUND FLOOR,No,5.87,4.9,15-09-2026,family,3.7
+190,Budget Homes 76,WHITEFIELD,3 BHK,35173.13,1802.6,Semi-Furnished,low rise,No,4.96,1,25-10-2025,Bachelor,3.7
+191,City Homes 7,Koramangala,4 BHK,42280.03,1191.3,UNFURNISHED,High Rise,no,4.07,2.8,18-01-2026,any,3.6
+192,Lake View Residency 34,electronic city,2BHK,18870.64,657.4,UNFURNISHED,Ground Floor,yes,1.28,8.3,19-01-2027,FAMILY,4.7
+193,Royal Residency 22,JP Nagar,2BHK,18566.1,1647.7,FURNISHED,low rise,No,6.7,5.8,23-Sep-26,family,2.6
+194,Urban Heights 50,KORAMANGALA,4 BHK,48239.84,1857.1,UNFURNISHED,Ground Floor,no,6.7,6,16-May-26,any,4.9
+195,Elite Apartments 23,Whitefield,2BHK,31332.52,2300,FURNISHED,Ground Floor,No,9.87 km,8.3,11-06-2025,FAMILY,2.5
+196,Comfort Villa 50,BTM Layout,2bhk,22433.33,1587.7,Unfurnished,GROUND FLOOR,No,2.78,1.6,19-03-2027,Bachelor,3.4
+197,Urban Heights 47,electronic city,2bhk,23731.22,1216.8,Semi-Furnished,Ground Floor,YES,3.61,5.8,26-01-2027,BACHELOR,3.1
+198,Elite Apartments 37,indiranagar,3BHK,28749.42,1394,Furnished,GROUND FLOOR,no,8.29,1.3,08-May-27,bachelor,4.2
+199,Urban Heights 34,Hebbal,2BHK,28380.43,2559.4,Unfurnished,GROUND FLOOR,YES,8.08,5.7,13-12-2025,family,1.3
+200,Sunshine Residency 32,btm layout,1 BHK,10,,unfurnished,Ground Floor,yes,7.94,6.3,15-10-2025,Any,3.1
+201,Elite Apartments 86,BTM Layout,1bhk,17521.94,1336.7,furnished,low rise,Yes,4.97,7.7,23-06-2025,FAMILY,3.8
+202,Metro View 83,JP Nagar,3 BHK,30846.61,1603.6,FURNISHED,ground floor,no,7.64,4.8,10-Oct-26,family,4.5
+203,Royal Residency 5,JP NAGAR,1 BHK,16786.53,919.5,FURNISHED,Mid Rise,,1.05,3.4,22-03-2027,FAMILY,3.2
+204,City Homes 84,BTM Layout,2BHK,25598.37,2721.2,semi-furnished,HIGH RISE,yes,2.55,1.4,20-12-2025,bachelor,1.9
+205,Metro View 5,KORAMANGALA,2BHK,20957.1,2736.3,FURNISHED,Mid Rise,No,3.76,2.8,10-02-2025,BACHELOR,
+206,Lake View Residency 23,Jayanagar,3 BHK,37079.97,1242.1,FURNISHED,ground floor,no,4.34,2.3,12-Oct-25,FAMILY,3.2
+207,Royal Residency 17,JP Nagar,1BHK,18468.73,1827.4,unfurnished,ground floor,Yes,3.15,5.1,19-Jul-26,bachelor,4.5
+208,Metro View 55,electronic city,1BHK,11980.14,2798.2,semi-furnished,Low Rise,YES,0.68,5.1,31-01-2026,family,2.9
+209,Metro View 20,HSR Layout,3bhk,31475.76,2343.7,Furnished,low rise,No,0.81,8.5,25-04-2027,Family,4.1
+210,Lake View Residency 82,BTM Layout,3bhk,,1276.6,Unfurnished,Ground Floor,No,2.42,5.8,12-01-2026,BACHELOR,3.4
+211,Comfort Villa 29,indiranagar,4 BHK,44221.04,1160.5,Semi-Furnished,Ground Floor,no,0.25,4.2,16-02-2026,bachelor,3.9
+212,Royal Residency 34,Electronic City,1BHK,12580.04,1316.1,unfurnished,low rise,no,2.61,,08-02-2025,FAMILY,2.7
+213,Metro View 79,electronic city,2 BHK,24906.66,2448.1,FURNISHED,ground floor,no,8.81,8.4,16-Apr-27,BACHELOR,3.2
+214,Elite Apartments 27,Jayanagar,3 BHK,31335.28,1683.8,semi-furnished,Mid Rise,NO,9.95,6.8,01-07-2026,BACHELOR,4.4
+215,Elite Apartments 36,WHITEFIELD,3BHK,30894.09,2782.2,Semi-Furnished,GROUND FLOOR,YES,3.47,2.7,03-10-2025,Family,3
+216,Comfort Villa 65,Hebbal,3 BHK,34256.7,2942.9,unfurnished,HIGH RISE,no,1,9.3,28-01-2025,Bachelor,4.2
+217,Lake View Residency 41,jayanagar,1bhk,16573.59,0,Unfurnished,low rise,YES,5.52,4.3,29-06-2027,Any,4.9
+218,Lake View Residency 60,Marathahalli,1 BHK,13023.28,1192,FURNISHED,Mid Rise,YES,5.6,7.8,28-Jun-25,Bachelor,3.2
+219,Urban Heights 88,KORAMANGALA,1bhk,8413.73,431.8,Furnished,Mid Rise,yes,2.35,1.8,06-06-2026,BACHELOR,3.5
+220,Sunshine Residency 3,JP Nagar,2BHK,27254.67,2531.7,Furnished,low rise,Yes,7.75,8.6,14-10-2025,bachelor,1.7
+221,Green Park Apartments 36,Jayanagar,2 BHK,20668.79,516,FURNISHED,ground floor,No,5.25 km,3.1,20-01-2027,any,3
+222,Urban Heights 74,WHITEFIELD,3bhk,43146.62,2343.5,unfurnished,GROUND FLOOR,no,2.31,4.5,23-02-2025,Bachelor,3.6
+223,Comfort Villa 25,jayanagar,2 BHK,500000,1013.8,UNFURNISHED,Low Rise,NO,3.08,2.9,05-04-2025,family,4.9
+224,Comfort Villa 100,BTM Layout,2bhk,17794.42,1222.5,Semi-Furnished,GROUND FLOOR,no,5.84,9.8,17-08-2025,any,4.7
+225,Budget Homes 51,KORAMANGALA,3 BHK,35293.24,2218.8,semi-furnished,HIGH RISE,No,3.29,8.4,25-12-2026,any,1.7
+226,Comfort Villa 67,electronic city,1 BHK,11745.58,1542.8,Unfurnished,GROUND FLOOR,YES,6.36,8.1,14-11-2025,Family,4.4
+227,Elite Apartments 52,JP NAGAR,3 BHK,37701.92,1842.5,Unfurnished,Mid Rise,NO,1.91,2.4,16-03-2026,Family,2.6
+228,Sunshine Residency 46,btm layout,2BHK,16237.3,2329.8,semi-furnished,Ground Floor,No,4.6,6.9,25-05-2025,Bachelor,4.3
+229,Urban Heights 2,Marathahalli,1bhk,11915.65,657.5,furnished,HIGH RISE,YES,5.16,5.9,30-10-2026,bachelor,1.7
+230,Royal Residency 3,Indiranagar,2 BHK,26652.53,2050.1,unfurnished,Low Rise,yes,7.29,2.3,29-08-2026,any,2.3
+231,Metro View 28,JP Nagar,4 BHK,35619.21,1174,Unfurnished,low rise,YES,7.08,,25-09-2025,FAMILY,4.6
+232,Green Park Apartments 28,Marathahalli,3bhk,29041.28,2196.4,unfurnished,Low Rise,YES,2.77,8.4,31-01-2027,Family,2.3
+233,Budget Homes 54,Electronic City,3BHK,26285.17,1780.5,semi-furnished,Ground Floor,yes,6.42,4.1,29-08-2025,bachelor,1.2
+234,Urban Heights 18,Hebbal,3bhk,29066.03,2778.3,unfurnished,low rise,Yes,6.77,9.1,16-Apr-27,bachelor,4.5
+235,City Homes 62,KORAMANGALA,2 BHK,20417.66,1187.9,FURNISHED,High Rise,yes,4.79,5.6,28-01-2025,bachelor,4.2
+236,Sunshine Residency 38,hsr layout,1bhk,23027.09,2462.4,Unfurnished,Mid Rise,Yes,1.08 km,6.6,03-05-2027,Bachelor,1.3
+237,Royal Residency 75,indiranagar,3bhk,30632.12,1751.6,FURNISHED,Low Rise,yes,0.59,5.3,04-12-2025,Family,2.7
+238,Elite Apartments 30,Marathahalli,1bhk,,2486.3,UNFURNISHED,HIGH RISE,YES,7.83,6.9,10-06-2025,bachelor,9.8
+239,Budget Homes 15,JP NAGAR,1 BHK,24666.4,934.9,Unfurnished,low rise,YES,2.56 km,8.4,07-02-2027,BACHELOR,2.9
+240,Urban Heights 65,Marathahalli,2bhk,26807.29,529.1,semi-furnished,ground floor,No,4.81,9.8,20-Nov-26,FAMILY,1.6
+241,City Homes 28,JP Nagar,2 BHK,20809.42,1257.3,furnished,low rise,no,2.41,7.7,11-09-2026,BACHELOR,4.2
+242,City Homes 28,hsr layout,3bhk,25187.32,2899,FURNISHED,low rise,NO,8.92,2.3,20-02-2027,Any,4.9
+243,Green Park Apartments 30,  BTM Layout  ,2bhk,16824.86,2630.3,Semi-Furnished,High Rise,Yes,0.95,3.5,21-05-2027,Any,
+244,Royal Residency 94,Hebbal,3BHK,33408.39,1665.4,semi-furnished,ground floor,yes,1.51,5.9,12-Feb-26,family,1.2
+245,Sunshine Residency 8,Indiranagar,3 BHK,27116.27,2771.4,Unfurnished,ground floor,NO,8.04 km,9.1,16-06-2025,bachelor,
+246,Lake View Residency 8,hsr layout,3bhk,25897.77,1134.5,FURNISHED,Mid Rise,NO,0.29,5.9,11-06-2026,BACHELOR,4.1
+247,Urban Heights 42,KORAMANGALA,2 BHK,25892.27,99999,Semi-Furnished,GROUND FLOOR,NO,9.21,2.3,10-08-2026,Bachelor,4.7
+248,Urban Heights 48,JP Nagar,2 BHK,18598.56,677.2,FURNISHED,low rise,Yes,2.94,1.8,14-Nov-25,BACHELOR,2.4
+249,City Homes 69,KORAMANGALA,3bhk,31190.36,546.5,Semi-Furnished,Mid Rise,,3.09,6,19-03-2025,Family,9.7
+250,Metro View 96,indiranagar,1bhk,16117.78,2844.8,UNFURNISHED,High Rise,Yes,8.17,3.5,02-04-2026,Family,2.4
+251,Budget Homes 10,jayanagar,2 BHK,14910.44,2233.9,UNFURNISHED,Ground Floor,No,3.54,1.7,14-Oct-26,Bachelor,4
+252,Green Park Apartments 55,hsr layout,2BHK,22404.11,2291.4,furnished,HIGH RISE,No,0.82,8.4,04-06-2027,family,4.7
+253,Sunshine Residency 93,JP NAGAR,4 BHK,45411.03,1532.4,semi-furnished,HIGH RISE,No,9.31,5.1,27-Feb-27,Bachelor,1.3
+254,Comfort Villa 28,Jayanagar,3BHK,42869.64,1674.8,semi-furnished,Low Rise,no,3.8,4.7,15-03-2025,FAMILY,2.7
+255,Comfort Villa 59,Hebbal,4 BHK,-1000,99999,Furnished,High Rise,no,4.59,1.3,19-03-2026,bachelor,4.2
+256,Comfort Villa 80,btm layout,2 BHK,28568.59,,FURNISHED,HIGH RISE,NO,7.04,8.7,23-02-2027,BACHELOR,1.4
+257,Sunshine Residency 28,Hebbal,2BHK,19644.49,1997.8,Semi-Furnished,ground floor,yes,2.67,7.9,17-04-2026,Family,2.4
+258,City Homes 80,Hebbal,3 BHK,34268.57,2647.9,furnished,GROUND FLOOR,no,2.61,9.4,13-12-2025,bachelor,4.6
+259,City Homes 44,KORAMANGALA,1bhk,13040.11,1099.7,Unfurnished,Low Rise,No,0.28,4.6,30-05-2025,bachelor,1.3
+260,Royal Residency 50,hsr layout,1BHK,15071.51,1257.7,furnished,GROUND FLOOR,yes,8.18,2.2,30-11-2026,Any,2.6
+261,Metro View 37,HSR Layout,2BHK,16265.89,1163.6,Furnished,Ground Floor,Yes,6.77,1.4,05-04-2026,bachelor,2
+262,City Homes 92,Koramangala,1 BHK,20054.65,920.1,Furnished,Low Rise,Yes,8.89,8.5,30-01-2025,Bachelor,2.8
+263,Elite Apartments 31,Indiranagar,4 BHK,41828.79,1363.4,Furnished,High Rise,Yes,9.59,2.4,28-03-2025,Any,4.4
+264,Green Park Apartments 59,Marathahalli,3 BHK,38745.71,1488.2,FURNISHED,Ground Floor,Yes,9.65,7.6,29-03-2025,any,4.2
+265,Metro View 94,jayanagar,2bhk,18049.31,1760.8,UNFURNISHED,Mid Rise,NO,7.73,3.8,30-06-2027,bachelor,
+266,City Homes 38,hsr layout,3 BHK,26175.89,2382,FURNISHED,Mid Rise,No,5.72,1.4,20-10-2025,any,4.1
+267,City Homes 6,Indiranagar,2BHK,20301.68,2348.6,FURNISHED,ground floor,no,5.84,3.9,05-02-2025,Bachelor,4.5
+268,Metro View 17,btm layout,3 BHK,27578.67,1250,Furnished,ground floor,NO,9.85,3.8,02-11-2026,Family,2.4
+269,Budget Homes 40,electronic city,3BHK,33046.01,2276.3,Semi-Furnished,ground floor,NO,1.63,8.8,15-02-2026,Any,2.3
+270,Sunshine Residency 25,JP NAGAR,2BHK,18860.37,2132.4,semi-furnished,Mid Rise,NO,7.27,1.6,25-03-2025,Bachelor,3.6
+271,Sunshine Residency 8,JP NAGAR,2BHK,16945.31,2249.7,UNFURNISHED,Ground Floor,No,0.36,3.3,03-03-2025,any,1.3
+272,Comfort Villa 76,Whitefield,3BHK,30665.36,1900.8,furnished,HIGH RISE,NO,2.79,6.6,12-06-2027,Bachelor,1.9
+273,Comfort Villa 85,Indiranagar,1bhk,12992.26,2147.4,furnished,Ground Floor,Yes,3.97,5.9,30-11-2026,bachelor,3.5
+274,Green Park Apartments 17,HSR Layout,1 BHK,14801.54,0,furnished,HIGH RISE,NO,1.69,1,04-05-2026,any,4.5
+275,Metro View 85,electronic city,3BHK,35534.2,730.1,Semi-Furnished,GROUND FLOOR,NO,1.19,8.3,13-10-2025,family,4.4
+276,Elite Apartments 83,btm layout,1bhk,18976.96,2966.6,semi-furnished,High Rise,no,5.91,5,15-06-2026,family,4.4
+277,Lake View Residency 36,JP NAGAR,2bhk,,474.6,semi-furnished,Mid Rise,NO,7.53,,05-Apr-25,bachelor,3.7
+278,City Homes 98,hsr layout,3 BHK,35483.05,2257,Semi-Furnished,ground floor,YES,3.4,7.9,06-06-2025,Any,4.9
+279,Green Park Apartments 78,Hebbal,2bhk,23275.27,1812.9,semi-furnished,HIGH RISE,Yes,6.98,4.1,19-04-2027,any,3.3
+280,Comfort Villa 2,BTM Layout,1bhk,13379.59,1480.8,Unfurnished,High Rise,No,2.76,2.7,07-08-2025,Family,3
+281,Budget Homes 99,JP Nagar,2 BHK,21192.13,1065.9,unfurnished,Ground Floor,NO,4.71,5.6,25-06-2025,Any,3
+282,Royal Residency 43,electronic city,2bhk,14494.53,1269.8,UNFURNISHED,low rise,No,0.88,9.1,15-06-2026,any,4.3
+283,Comfort Villa 36,indiranagar,2 BHK,21693.87,2113.9,FURNISHED,HIGH RISE,YES,8.88,8.7,22-06-2026,Family,4.9
+284,Royal Residency 11,Electronic City,3bhk,32860.07,428.7,Furnished,High Rise,No,7.06,1.1,28-02-2025,bachelor,2
+285,Metro View 38,JP NAGAR,4 BHK,48204.77,540.3,Furnished,low rise,no,1.88 km,4.3,11-03-2026,Family,3.4
+286,Green Park Apartments 52,JP Nagar,1 BHK,9602.1,711.7,Unfurnished,HIGH RISE,Yes,1.73,5.1,01-09-2026,Family,3.9
+287,Royal Residency 2,jayanagar,3 BHK,26022.61,578.7,Unfurnished,Mid Rise,Yes,6.82,8.3,28-01-2027,Family,2.5
+288,Urban Heights 59,KORAMANGALA,4 BHK,41568.86,2855,semi-furnished,ground floor,NO,3.89,1.5,09-08-2026,BACHELOR,6.7
+289,Metro View 53,Electronic City,1 BHK,9360.33,2412.9,Furnished,ground floor,YES,9.84,6.7,24-11-2025,Bachelor,1.5
+290,Green Park Apartments 37,BTM Layout,2 BHK,31618.8,403.1,furnished,High Rise,yes,0.45,6,16-01-2027,BACHELOR,5
+291,Urban Heights 75,JP NAGAR,3BHK,29074.4,926.7,Semi-Furnished,Mid Rise,NO,2.07,,31-03-2027,Family,1.8
+292,City Homes 6,  Koramangala  ,3bhk,35459.24,2935,Semi-Furnished,ground floor,yes,0.84,3.1,31-Jan-27,Family,4.4
+293,Lake View Residency 87,JP NAGAR,1 BHK,10,999.3,Semi-Furnished,Low Rise,NO,5.92,9.7,29-09-2026,any,4.5
+294,Green Park Apartments 36,JP Nagar,3BHK,32457.53,1040.6,Unfurnished,Ground Floor,No,7.21,1.8,18-12-2026,any,1.6
+295,Lake View Residency 83,WHITEFIELD,2 BHK,500000,1347.4,semi-furnished,Ground Floor,Yes,8.47,8.1,24-05-2026,Family,3.7
+296,Green Park Apartments 68,Hebbal,3BHK,26774.57,,Unfurnished,ground floor,No,6.09,7.8,07-11-2025,Bachelor,4.3
+297,Comfort Villa 48,Koramangala,1BHK,23460.37,2835.2,Unfurnished,ground floor,no,8.86,6.3,25-10-2026,bachelor,4.2
+298,City Homes 33,  JP NAGAR  ,2BHK,21294.63,1660.9,Furnished,GROUND FLOOR,YES,6.42,2.7,21-09-2026,Any,2.4
+299,Budget Homes 84,WHITEFIELD,1BHK,18135.55,2577.5,UNFURNISHED,GROUND FLOOR,Yes,8.57,5.2,20-11-2026,Any,1.7
+300,Budget Homes 83,Indiranagar,3 BHK,38019.1,2146.7,FURNISHED,Ground Floor,no,7.14,7.3,10-06-2025,any,4.6
+301,Elite Apartments 20,Indiranagar,3 BHK,34318.54,632.2,semi-furnished,Ground Floor,No,0.39,2.9,30-10-2025,bachelor,1.9
+302,City Homes 14,JP Nagar,3 BHK,32777.36,443.1,Unfurnished,Ground Floor,YES,0.28 km,4,25-04-2026,any,3.6
+303,Royal Residency 66,Whitefield,2BHK,20977.08,1188.8,unfurnished,HIGH RISE,No,5.75,3.4,07-12-2026,Family,9.5
+304,Sunshine Residency 84,btm layout,3BHK,37072.98,698.2,UNFURNISHED,High Rise,Yes,0.68,5.5,08-05-2027,BACHELOR,1.9
+305,Urban Heights 8,Whitefield,2BHK,19019.46,2667,furnished,Mid Rise,no,3.53,3.7,27-06-2026,FAMILY,3.4
+306,Lake View Residency 88,electronic city,1bhk,16582.22,1559.5,FURNISHED,Low Rise,Yes,7.42,5.9,20-11-2026,Any,4.5
+307,Green Park Apartments 70,Jayanagar,2 BHK,23192,1342.5,furnished,High Rise,YES,5.6,4.1,30-10-2026,any,2.3
+308,Sunshine Residency 37,JP NAGAR,2bhk,26282.83,1055.7,UNFURNISHED,ground floor,YES,2.05,6.8,06-05-2026,FAMILY,3.8
+309,Lake View Residency 50,Jayanagar,3BHK,33244.96,1422.1,FURNISHED,Mid Rise,No,0.55,8.7,05-08-2025,family,4
+310,Royal Residency 72,Marathahalli,4 BHK,999999,1282.2,Semi-Furnished,High Rise,no,2.4,1.7,28-Jan-27,Family,2.2
+311,Metro View 16,electronic city,3 BHK,33379.25,650.5,Semi-Furnished,Mid Rise,YES,0.73,3.6,10-Jul-26,Any,1.3
+312,Elite Apartments 39,JP Nagar,2BHK,19552.47,2977.8,UNFURNISHED,GROUND FLOOR,yes,5.62,5.8,10-09-2026,bachelor,1.5
+313,Metro View 38,JP NAGAR,4 BHK,51733.76,2382.1,Semi-Furnished,Mid Rise,yes,6.52,2.9,12-07-2026,family,3.1
+314,Metro View 75,Electronic City,2bhk,20007.91,1819.5,furnished,Mid Rise,no,3.65,3.3,21-04-2026,Any,
+315,Elite Apartments 29,Indiranagar,3 BHK,33173.27,2253.8,Semi-Furnished,Mid Rise,,0.39,4.6,07-05-2027,Any,4.3
+316,Urban Heights 32,jayanagar,4 BHK,42429.1,2661,semi-furnished,Low Rise,No,7.22,5,25-02-2027,Any,4.2
+317,Green Park Apartments 73,JP NAGAR,3bhk,32793.97,626.2,furnished,Mid Rise,Yes,9.35,6.9,06-02-2025,Bachelor,1.9
+318,Green Park Apartments 29,Hebbal,1 BHK,12386.39,1348.5,FURNISHED,GROUND FLOOR,No,0.41,4.4,06-10-2026,Any,2.4
+319,Metro View 33,Koramangala,2BHK,17087.04,731.6,Unfurnished,HIGH RISE,NO,9.03,9.9,27-07-2025,any,1.5
+320,Urban Heights 25,hsr layout,2BHK,22204.91,2932.2,unfurnished,ground floor,yes,5.28,4.3,23-02-2025,Any,2.6
+321,Metro View 60,hsr layout,1BHK,14089.35,1913.6,Furnished,GROUND FLOOR,NO,6.85,8,02-05-2025,bachelor,1.6
+322,Urban Heights 82,Indiranagar,1BHK,14022.61,1719.1,UNFURNISHED,ground floor,Yes,1.15,5,22-01-2026,Bachelor,1.6
+323,Green Park Apartments 43,KORAMANGALA,1 BHK,10948.56,1797.9,semi-furnished,Ground Floor,Yes,3.12,9.8,27-Jan-26,Any,1.7
+324,Sunshine Residency 56,indiranagar,3BHK,33883.27,2128.2,semi-furnished,HIGH RISE,YES,9.45,8.2,19-05-2027,bachelor,4.6
+325,Sunshine Residency 57,indiranagar,1bhk,16612.82,1991.5,furnished,GROUND FLOOR,no,4.63,8.2,08-Jan-27,any,7.6
+326,Elite Apartments 81,Indiranagar,3BHK,32215.54,710,unfurnished,High Rise,yes,9.03,1.6,17-Nov-25,Bachelor,1.1
+327,Royal Residency 7,Marathahalli,2 BHK,22882.62,2088.4,unfurnished,ground floor,,,7.3,04-10-2026,bachelor,1.1
+328,Lake View Residency 52,btm layout,2BHK,22575.53,816.1,furnished,High Rise,NO,6.21,9.7,05-03-2025,family,3.4
+329,Elite Apartments 39,Marathahalli,1BHK,15582.5,2150.9,furnished,ground floor,Yes,6.04,3.8,26-06-2027,FAMILY,3.3
+330,Urban Heights 68,BTM Layout,1bhk,14431.3,659.6,FURNISHED,Ground Floor,Yes,6.9,7.3,01-06-2026,family,3
+331,Comfort Villa 83,hsr layout,1bhk,17235.01,2089.2,semi-furnished,Mid Rise,no,8.4,4.7,09-04-2026,family,2.2
+332,Lake View Residency 68,btm layout,2 BHK,14230.4,2163.7,Semi-Furnished,ground floor,no,6.85,8.4,26-04-2027,any,1.2
+333,Sunshine Residency 12,WHITEFIELD,3 BHK,33061.65,-100,FURNISHED,low rise,no,9,4.5,16-01-2025,any,4.1
+334,Comfort Villa 11,electronic city,4 BHK,45077.98,1755.3,semi-furnished,ground floor,YES,5.32,,01-12-2025,BACHELOR,4.8
+335,City Homes 8,hsr layout,3 BHK,,1795.9,Unfurnished,low rise,Yes,7.33,2.7,10-12-2026,bachelor,2.3
+336,Urban Heights 74,WHITEFIELD,4 BHK,48201.07,1858.3,Furnished,Ground Floor,NO,5.46,6,20-05-2025,Family,1.1
+337,City Homes 3,  Indiranagar  ,3BHK,34036.03,,furnished,ground floor,YES,3.56,5.1,02-03-2025,any,4
+338,Metro View 29,hsr layout,2 BHK,22586.48,2891.2,semi-furnished,GROUND FLOOR,no,1.87,7.9,24-May-27,any,3.3
+339,Lake View Residency 67,BTM Layout,1 BHK,13646.44,1668.3,FURNISHED,low rise,Yes,4.32,,18-06-2025,Family,2.2
+340,Sunshine Residency 47,Hebbal,3bhk,36390.77,,semi-furnished,GROUND FLOOR,yes,5.54,2.9,09-06-2026,FAMILY,5
+341,Royal Residency 66,JP NAGAR,1BHK,17224.91,1745.5,UNFURNISHED,GROUND FLOOR,no,1.7,5.2,28-Dec-25,Family,2.5
+342,Sunshine Residency 27,  HSR Layout  ,3bhk,30675.11,1439.1,Semi-Furnished,Ground Floor,yes,2.34 km,4.1,23-10-2026,Family,1.8
+343,Lake View Residency 19,Jayanagar,3bhk,33499.27,1346.2,unfurnished,GROUND FLOOR,no,0.62,2.7,22-Jun-26,Bachelor,2.8
+344,Metro View 64,WHITEFIELD,3BHK,29284.42,2680,Furnished,Low Rise,yes,7.31,1.8,13-Sep-26,bachelor,4.3
+345,Sunshine Residency 20,HSR Layout,1 BHK,16117.3,1334.5,UNFURNISHED,High Rise,yes,8.99,7.9,03-03-2025,Any,4.9
+346,Elite Apartments 61,WHITEFIELD,3BHK,27027.52,469.6,unfurnished,High Rise,no,4.38,,13-05-2027,Any,2.1
+347,Urban Heights 30,hsr layout,2BHK,24617.97,805.5,FURNISHED,Ground Floor,no,5.93,3.4,13-04-2025,family,2.3
+348,Elite Apartments 29,HSR Layout,1bhk,6854.59,2376.8,Furnished,ground floor,yes,4.99,2.4,05-07-2025,any,
+349,Comfort Villa 37,Jayanagar,1bhk,23014.76,460.5,FURNISHED,ground floor,yes,7.73,5,28-09-2025,FAMILY,1.2
+350,City Homes 54,Koramangala,3 BHK,29090.51,1582,Semi-Furnished,High Rise,Yes,9.66,8.5,13-06-2026,Bachelor,1.4
+351,Sunshine Residency 88,  Hebbal  ,2 BHK,999999,1053.8,Semi-Furnished,low rise,NO,1.34,2.5,05-05-2025,BACHELOR,3
+352,Green Park Apartments 44,Indiranagar,3 BHK,37253.59,1303.2,Furnished,HIGH RISE,YES,8.61,4.8,14-11-2026,Family,3.5
+353,Green Park Apartments 78,Hebbal,1bhk,16104.46,2943.3,UNFURNISHED,High Rise,YES,8.77,,10-04-2025,BACHELOR,1.5
+354,Comfort Villa 72,JP NAGAR,2 BHK,21986.34,2819.3,Furnished,low rise,NO,6.99,9.6,06-08-2025,FAMILY,4.9
+355,Metro View 59,Hebbal,3bhk,42209.22,1465.7,furnished,GROUND FLOOR,No,8.38,4.1,13-11-2025,bachelor,3.8
+356,Elite Apartments 52,HSR Layout,2bhk,23078.9,1640.9,Furnished,GROUND FLOOR,yes,7.96,7.1,03-05-2027,Bachelor,2.1
+357,Comfort Villa 23,JP NAGAR,3bhk,33929.1,2034.9,Unfurnished,Low Rise,no,5.29,1.5,17-06-2025,FAMILY,3.7
+358,Lake View Residency 29,indiranagar,3 BHK,32851.97,1823.8,UNFURNISHED,low rise,,7.59,3.5,16-May-26,bachelor,1.5
+359,Urban Heights 45,Marathahalli,2 BHK,21470.64,2328,UNFURNISHED,Low Rise,no,2.54,9.9,12-11-2025,any,4.4
+360,Comfort Villa 45,JP NAGAR,1BHK,17427.01,439.1,furnished,GROUND FLOOR,Yes,9.68,9.9,25-07-2026,any,3.9
+361,Budget Homes 33,Koramangala,1BHK,16084.9,441,unfurnished,Ground Floor,NO,9.53,1.8,21-06-2027,Family,2.7
+362,City Homes 80,indiranagar,1BHK,3574.7,629.8,Unfurnished,Mid Rise,NO,7.94,6.3,22-03-2026,bachelor,3
+363,Lake View Residency 43,Jayanagar,2bhk,24415.53,2470.6,FURNISHED,low rise,NO,4.23,4.4,06-07-2026,Bachelor,2.3
+364,Lake View Residency 28,JP Nagar,1 BHK,13367.54,2548.1,furnished,Mid Rise,no,6.78,9.6,02-02-2026,Family,2.5
+365,Elite Apartments 9,KORAMANGALA,3BHK,27901.74,574,FURNISHED,HIGH RISE,No,3.56,8.4,07-Jun-26,bachelor,1.7
+366,Sunshine Residency 21,WHITEFIELD,3 BHK,28004.4,2246.6,semi-furnished,HIGH RISE,NO,4.17,10,29-Jul-26,Bachelor,3.2
+367,Green Park Apartments 72,Koramangala,1BHK,12402.86,597.6,FURNISHED,Mid Rise,NO,0.31,2.6,02-03-2026,BACHELOR,4.9
+368,Sunshine Residency 76,Whitefield,2 BHK,23672.6,1018.7,FURNISHED,ground floor,Yes,0.57,,29-07-2026,family,4.4
+369,Metro View 39,HSR Layout,1 BHK,4370.96,1974,Semi-Furnished,GROUND FLOOR,No,2.12,6.3,31-05-2026,Family,4.5
+370,Sunshine Residency 7,Indiranagar,3BHK,30998.45,1151.6,Unfurnished,Low Rise,no,3.16,9.1,16-Dec-25,any,1.9
+371,Urban Heights 13,Jayanagar,2BHK,27660.34,2057.3,Unfurnished,Low Rise,NO,,9.6,09-04-2027,family,2.9
+372,Sunshine Residency 17,WHITEFIELD,3bhk,29708.97,2893.8,semi-furnished,ground floor,NO,1.2,6.1,28-02-2027,Any,1.9
+373,Green Park Apartments 30,Indiranagar,3 BHK,36628.65,621.1,semi-furnished,Ground Floor,NO,8.07,5,15-06-2027,family,1.9
+374,Lake View Residency 20,WHITEFIELD,3bhk,34340.52,818.1,UNFURNISHED,GROUND FLOOR,YES,2.59,1.5,06-01-2027,Family,4.4
+375,Elite Apartments 68,Electronic City,3BHK,22887.56,2970,Semi-Furnished,Mid Rise,no,8.95,2.1,05-02-2027,BACHELOR,5
+376,Budget Homes 12,Marathahalli,1bhk,25148.94,2582.1,FURNISHED,low rise,YES,7.78,1.9,29-11-2025,family,4
+377,City Homes 6,WHITEFIELD,1BHK,12450.81,1914.4,furnished,Mid Rise,no,3.73,2.8,21-12-2026,Bachelor,2.2
+378,Urban Heights 1,WHITEFIELD,1 BHK,7572.46,2858.7,UNFURNISHED,HIGH RISE,NO,1.83,8.2,29-10-2025,bachelor,1.2
+379,Urban Heights 100,Marathahalli,1bhk,3600.59,1875.1,semi-furnished,High Rise,YES,4.92,8.6,02-Jan-27,bachelor,3.1
+380,Comfort Villa 99,JP NAGAR,1BHK,,-100,furnished,HIGH RISE,,8.75,9.2,16-06-2027,FAMILY,
+381,Budget Homes 44,JP Nagar,3BHK,33733.87,,UNFURNISHED,GROUND FLOOR,NO,0.79,7.2,02-02-2026,any,4.4
+382,Metro View 3,JP NAGAR,2bhk,26196.21,1737.6,Semi-Furnished,Low Rise,No,0.21,3.9,16-04-2025,Family,4
+383,City Homes 53,Koramangala,2 BHK,21984.28,981.2,semi-furnished,Low Rise,Yes,6.95,4.4,04-12-2026,any,3.6
+384,Green Park Apartments 35,indiranagar,4 BHK,40501.81,885.3,Unfurnished,High Rise,yes,8.02,9.1,03-Feb-26,FAMILY,4.9
+385,Budget Homes 12,Hebbal,1bhk,14568.3,2609.7,FURNISHED,Low Rise,Yes,2.78 km,9.6,27-08-2025,Any,4
+386,Royal Residency 7,jayanagar,3BHK,21488.37,746.2,semi-furnished,High Rise,yes,2.77,4.5,24-09-2025,bachelor,3.4
+387,Royal Residency 85,  btm layout  ,1BHK,19733.37,528.5,semi-furnished,High Rise,Yes,8.96,7.8,30-06-2026,bachelor,3.4
+388,Urban Heights 55,WHITEFIELD,2 BHK,19309.52,2885.1,unfurnished,GROUND FLOOR,Yes,4.12,9.3,09-May-26,bachelor,3.9
+389,Urban Heights 89,Indiranagar,1bhk,19103.97,2485.9,unfurnished,Ground Floor,no,3.42,,25-02-2025,Bachelor,3
+390,Sunshine Residency 26,WHITEFIELD,1BHK,8372.99,1050,furnished,low rise,YES,7.92,6.2,01-01-2027,BACHELOR,4.7
+391,Green Park Apartments 95,BTM Layout,3BHK,25501.35,1051.8,FURNISHED,High Rise,No,2.58,2.5,23-Jan-27,Family,3.2
+392,Urban Heights 8,jayanagar,1BHK,22945.46,2898.6,Semi-Furnished,Ground Floor,yes,,,13-Jul-26,Family,1.9
+393,Sunshine Residency 81,Whitefield,3 BHK,23850.72,1514.2,Unfurnished,HIGH RISE,YES,4.96,9.7,19-09-2026,bachelor,2.1
+394,Green Park Apartments 59,jayanagar,3BHK,38062.8,2061.2,FURNISHED,Ground Floor,no,1.98,3,09-Apr-25,BACHELOR,1.5
+395,City Homes 42,Whitefield,3bhk,36476.37,2859.8,FURNISHED,low rise,,4.87,6.8,22-08-2026,BACHELOR,3.2
+396,Comfort Villa 92,btm layout,3BHK,21639.16,676.6,unfurnished,ground floor,no,3.57 km,7.7,10-01-2025,family,3.6
+397,Sunshine Residency 80,JP Nagar,2bhk,29553.45,2152.1,furnished,Mid Rise,YES,2.11,7,24-06-2026,any,7.5
+398,Comfort Villa 22,KORAMANGALA,3 BHK,39904.76,796.1,UNFURNISHED,HIGH RISE,NO,3.54,8.7,29-05-2026,Family,3.2
+399,Green Park Apartments 83,JP Nagar,3BHK,37231.56,492.9,Semi-Furnished,Low Rise,no,4.53,1.6,16-01-2025,Any,2.7
+400,Elite Apartments 48,JP Nagar,2BHK,25865.52,1600.3,UNFURNISHED,Mid Rise,YES,5.53,9.2,27-10-2026,bachelor,1.1
+401,Sunshine Residency 73,Electronic City,1 BHK,16826.44,639.3,unfurnished,low rise,No,0.78,9.2,20-06-2026,Family,3.3
+402,City Homes 92,Electronic City,3 BHK,38845.37,1016.2,FURNISHED,ground floor,no,4.97,2.6,31-Dec-26,family,1.9
+403,Budget Homes 82,Hebbal,2bhk,13615.99,799.2,furnished,Low Rise,NO,3.63 km,3.2,10-10-2026,BACHELOR,3.4
+404,City Homes 74,Indiranagar,3 BHK,30560.79,2096,Unfurnished,Mid Rise,No,7.68,,05-Apr-25,any,2
+405,Urban Heights 17,electronic city,1bhk,10359.41,1126.5,UNFURNISHED,HIGH RISE,,7.97,7.4,13-10-2026,any,3.3
+406,Sunshine Residency 62,HSR Layout,1bhk,999999,1491,semi-furnished,HIGH RISE,YES,0.31,6.9,10-11-2025,any,1.2
+407,Sunshine Residency 27,Jayanagar,1BHK,,1688.5,unfurnished,Ground Floor,no,1.12,1,17-10-2025,family,7
+408,Elite Apartments 9,Electronic City,1 BHK,,728.6,UNFURNISHED,Low Rise,no,0.8,4.7,13-09-2026,Bachelor,3.5
+409,City Homes 60,hsr layout,1BHK,10238.22,2250.4,Unfurnished,low rise,,1.38,7,14-05-2027,family,2.1
+410,Comfort Villa 69,btm layout,3 BHK,29439.17,2782.2,furnished,HIGH RISE,YES,5.27,5.2,20-12-2025,bachelor,3.7
+411,Royal Residency 4,JP Nagar,3BHK,24817.54,2236,UNFURNISHED,Ground Floor,no,,3.3,14-Sep-25,Family,2.1
+412,Budget Homes 80,WHITEFIELD,4 BHK,39678.26,2559.4,UNFURNISHED,Mid Rise,no,4.37,,01-09-2025,Bachelor,3.6
+413,Green Park Apartments 94,jayanagar,1BHK,13065.08,1579.1,furnished,Ground Floor,YES,2.97,2.9,23-05-2026,family,1.3
+414,Green Park Apartments 42,Jayanagar,1BHK,25502.22,1241.4,Unfurnished,HIGH RISE,NO,6.54,8.2,12-May-26,Any,3.2
+415,Metro View 15,BTM Layout,4 BHK,46780.32,1068.5,FURNISHED,low rise,NO,4.97,2.7,09-03-2027,bachelor,
+416,Green Park Apartments 58,  WHITEFIELD  ,1BHK,13317.22,2054,furnished,GROUND FLOOR,no,7.18,3.9,21-07-2026,any,7.4
+417,Budget Homes 21,JP NAGAR,3BHK,26150.35,1237.4,Unfurnished,Mid Rise,Yes,9.29,1.3,19-01-2025,any,2.1
+418,Lake View Residency 11,Indiranagar,3 BHK,25946.65,460.2,FURNISHED,ground floor,No,3.14,8.4,13-06-2027,Any,4.2
+419,Green Park Apartments 47,Jayanagar,1BHK,10624.66,1567,Furnished,GROUND FLOOR,yes,8.31,8,27-Mar-27,bachelor,3.8
+420,Comfort Villa 51,Koramangala,1 BHK,13726,1086.8,UNFURNISHED,GROUND FLOOR,NO,3.76,3.4,14-Apr-25,BACHELOR,4.2
+421,Metro View 17,Hebbal,2 BHK,17278.59,973.8,Semi-Furnished,Ground Floor,No,8.02,8.7,06-09-2026,FAMILY,4.2
+422,Budget Homes 50,HSR Layout,3BHK,30713.32,0,Semi-Furnished,Mid Rise,Yes,6.61,3.6,10-03-2025,family,2.5
+423,Budget Homes 97,JP Nagar,3 BHK,26974.78,2821.8,Semi-Furnished,HIGH RISE,NO,3,6.9,10-08-2026,Bachelor,4.5
+424,Comfort Villa 32,JP Nagar,1BHK,9748.77,643,semi-furnished,HIGH RISE,Yes,2.27,4.9,20-01-2027,Family,3.2
+425,Elite Apartments 36,HSR Layout,2BHK,24302.04,2140.8,Unfurnished,low rise,No,8.09,1.7,23-01-2025,Any,1.4
+426,City Homes 63,electronic city,2bhk,26264.84,,unfurnished,low rise,YES,7.33,5.5,11-02-2027,any,4.8
+427,Elite Apartments 57,electronic city,2BHK,19732.52,517.4,Unfurnished,GROUND FLOOR,no,6.51,6.2,10-06-2025,any,8.8
+428,Comfort Villa 13,indiranagar,3bhk,36369.37,1859.2,Semi-Furnished,Low Rise,No,1.27,2.9,10-May-25,Any,1
+429,City Homes 91,Hebbal,1 BHK,8359.83,-100,UNFURNISHED,Low Rise,Yes,8.41,4.6,04-10-2026,any,9.3
+430,Green Park Apartments 51,Indiranagar,2 BHK,24113.06,2683.6,unfurnished,Ground Floor,No,9.16,2.6,29-08-2025,Any,7.7
+431,Sunshine Residency 96,  BTM Layout  ,1bhk,12272.28,2280.3,semi-furnished,ground floor,Yes,6.8 km,6.2,18-09-2025,bachelor,2.3
+432,Metro View 5,HSR Layout,4 BHK,47976.91,993.2,furnished,Low Rise,NO,5.91 km,3.3,26-Apr-25,bachelor,3.3
+433,Budget Homes 68,Marathahalli,3BHK,31701.11,2560.9,Semi-Furnished,low rise,no,5.46,4.2,13-09-2025,FAMILY,3.8
+434,Elite Apartments 64,BTM Layout,1 BHK,13814.18,935.2,Unfurnished,HIGH RISE,yes,5.7,3.2,05-03-2027,Any,4.5
+435,Urban Heights 49,Jayanagar,4 BHK,43736.83,1492.7,furnished,High Rise,No,2.34,5.6,09-09-2025,bachelor,2.2
+436,Comfort Villa 59,Jayanagar,1bhk,7733.72,836.4,semi-furnished,Mid Rise,YES,9.11,7.3,19-11-2026,family,5
+437,Lake View Residency 55,HSR Layout,1BHK,15048.32,694.9,furnished,Ground Floor,YES,3.1,6.1,31-12-2026,bachelor,4.5
+438,Comfort Villa 50,KORAMANGALA,3 BHK,27379.12,724,semi-furnished,low rise,YES,3.25,4.5,05-06-2027,any,4.7
+439,Budget Homes 56,KORAMANGALA,1BHK,16432.07,951.7,Unfurnished,Ground Floor,No,6.88,2.4,16-09-2025,bachelor,4.8
+440,Royal Residency 22,Electronic City,3BHK,36456.34,2499.6,Unfurnished,HIGH RISE,NO,3.52,7.6,16-10-2025,BACHELOR,1.1
+441,Lake View Residency 15,btm layout,2bhk,25785.08,1096.9,Furnished,GROUND FLOOR,Yes,6.16,5.6,21-Jun-27,FAMILY,2.4
+442,Sunshine Residency 4,electronic city,1bhk,12355.1,2576.7,Semi-Furnished,Mid Rise,YES,9.46,4.2,12-04-2026,Family,1.2
+443,Lake View Residency 53,KORAMANGALA,3 BHK,37271.14,2123.1,FURNISHED,Ground Floor,No,8.85,8.9,21-01-2026,Any,2.2
+444,Sunshine Residency 35,Hebbal,1bhk,24216.39,963,Furnished,GROUND FLOOR,yes,7.31,9.2,22-04-2025,bachelor,3.5
+445,Green Park Apartments 22,KORAMANGALA,3BHK,28277.91,2274.8,semi-furnished,Mid Rise,YES,8.31,6,03-Apr-26,Any,3.9
+446,Comfort Villa 43,Jayanagar,2bhk,14612.68,2130.7,furnished,High Rise,NO,,8.4,25-Aug-25,BACHELOR,1.4
+447,Sunshine Residency 22,WHITEFIELD,1BHK,13501.65,1253.9,Furnished,Low Rise,YES,5.8,5.4,20-05-2027,Bachelor,1.5
+448,Urban Heights 95,Indiranagar,3 BHK,39479.56,2864.3,FURNISHED,GROUND FLOOR,yes,0.29,4.7,11-03-2027,FAMILY,3.1
+449,Sunshine Residency 54,indiranagar,3BHK,35490.78,2977.8,Semi-Furnished,High Rise,YES,9.54,6,21-Mar-27,BACHELOR,1.2
+450,Comfort Villa 86,JP NAGAR,1BHK,13530.81,554.8,Unfurnished,Low Rise,Yes,1.29 km,6.1,16-03-2025,any,2.1
+451,City Homes 12,electronic city,1 BHK,17256.08,1600.8,Unfurnished,ground floor,YES,7.23,8,27-08-2025,any,2.6
+452,Metro View 31,WHITEFIELD,3bhk,29038.19,2578.5,furnished,Mid Rise,no,3.48,2,06-04-2026,FAMILY,4.5
+453,Comfort Villa 50,Jayanagar,4 BHK,43665.09,,Semi-Furnished,GROUND FLOOR,YES,3.98,1.7,06-02-2026,Bachelor,1.2
+454,Budget Homes 13,Electronic City,4 BHK,41073.82,924.6,Semi-Furnished,Mid Rise,YES,7.98,9.2,19-07-2026,any,1.1
+455,Comfort Villa 61,Jayanagar,1 BHK,16543.34,2485.7,FURNISHED,Mid Rise,YES,0.47 km,,31-03-2025,Family,3.1
+456,Green Park Apartments 19,Jayanagar,3 BHK,30081.75,1543.5,furnished,low rise,Yes,5.4,8.1,22-07-2025,FAMILY,1.6
+457,Elite Apartments 92,Jayanagar,1bhk,,1560.3,UNFURNISHED,GROUND FLOOR,YES,2.31,1.6,17-12-2025,Family,3.9
+458,Lake View Residency 76,KORAMANGALA,2bhk,26116.61,1715.6,FURNISHED,High Rise,No,4.1,3.2,09-07-2025,FAMILY,4.9
+459,Metro View 7,JP NAGAR,3bhk,34803.65,2861.8,unfurnished,Mid Rise,YES,8.42,6.7,07-01-2025,bachelor,4.6
+460,Green Park Apartments 57,HSR Layout,2BHK,30805.41,484.6,unfurnished,low rise,Yes,8.79,3.9,26-06-2027,Bachelor,9.5
+461,Budget Homes 33,Electronic City,1BHK,8057.37,1057.7,Furnished,Low Rise,YES,5.41,9.6,23-03-2025,FAMILY,
+462,Urban Heights 58,Jayanagar,4 BHK,50047.64,2493.1,UNFURNISHED,ground floor,no,7.47,4.5,07-06-2027,any,3.7
+463,Elite Apartments 41,hsr layout,2bhk,27949.39,693.7,unfurnished,Mid Rise,NO,5.25,8.9,18-11-2026,any,2.2
+464,Green Park Apartments 2,jayanagar,4 BHK,41673.56,925.5,unfurnished,ground floor,no,8.67,8.6,17-08-2025,FAMILY,4.3
+465,Budget Homes 83,Indiranagar,1bhk,20358.58,411.2,FURNISHED,low rise,No,4.11,7.9,05-11-2025,bachelor,4.1
+466,Sunshine Residency 8,HSR Layout,2 BHK,21458.59,1837.9,semi-furnished,High Rise,yes,6.62 km,9.5,23-Feb-26,FAMILY,
+467,Lake View Residency 71,BTM Layout,1bhk,25521.99,461.7,UNFURNISHED,low rise,yes,4.27,7.2,12-03-2026,Any,1
+468,Royal Residency 8,Hebbal,3BHK,35672.67,519.2,unfurnished,Mid Rise,no,6.36,4.2,03-06-2027,Any,2.7
+469,Metro View 100,HSR Layout,3BHK,33373.32,1991.9,Semi-Furnished,High Rise,No,9.88,4.4,03-08-2026,bachelor,1.1
+470,Elite Apartments 92,hsr layout,1bhk,10906.51,2705.8,Semi-Furnished,Ground Floor,NO,9.07,9.5,28-09-2026,Family,4.2
+471,Urban Heights 19,WHITEFIELD,3bhk,37928.89,1686.3,UNFURNISHED,GROUND FLOOR,YES,3.34,6.1,12-10-2025,Any,4.2
+472,Sunshine Residency 21,JP Nagar,1BHK,12697.97,645.4,Furnished,Ground Floor,yes,9.18,7.2,01-10-2026,Any,4.6
+473,Budget Homes 4,btm layout,1 BHK,16681.91,583.9,Furnished,High Rise,yes,6.65,7.4,18-Feb-26,Bachelor,1
+474,Royal Residency 10,Electronic City,3bhk,38442.78,2629.1,furnished,HIGH RISE,YES,9.16,6.2,11-11-2026,any,3
+475,Royal Residency 77,Jayanagar,2 BHK,,2041.5,Unfurnished,HIGH RISE,NO,0.99,4.5,05-06-2026,Family,2.9
+476,Urban Heights 29,  Marathahalli  ,4 BHK,47712.73,0,Unfurnished,High Rise,yes,2.85,8.2,24-06-2026,Family,5
+477,Royal Residency 16,JP NAGAR,2 BHK,21465.43,1037.3,FURNISHED,Low Rise,yes,6.48,3.8,03-Nov-25,Bachelor,2.9
+478,Elite Apartments 26,indiranagar,1bhk,13813.63,1068.2,Unfurnished,low rise,no,5.28,6.1,28-07-2026,BACHELOR,1.7
+479,Metro View 24,indiranagar,2BHK,22145.58,1263.3,semi-furnished,GROUND FLOOR,Yes,4.51,8,10-07-2025,bachelor,
+480,Elite Apartments 95,electronic city,1bhk,15458.32,2688.7,unfurnished,Low Rise,No,2.44,4.6,04-07-2026,any,2.7
+481,City Homes 61,JP Nagar,1BHK,,2007.2,Furnished,Low Rise,No,0.59,,17-07-2025,family,3.4
+482,Elite Apartments 96,BTM Layout,2bhk,12493.19,1250.4,unfurnished,GROUND FLOOR,Yes,4.31,9.6,08-04-2026,Any,4.1
+483,Metro View 66,BTM Layout,3 BHK,27798.98,1050.8,Unfurnished,HIGH RISE,yes,6.17,3.7,18-01-2025,family,4.3
+484,Royal Residency 67,jayanagar,1BHK,11381.95,2356.7,Furnished,Mid Rise,Yes,3.51,4.9,20-09-2026,Family,2.3
+485,Lake View Residency 22,KORAMANGALA,1bhk,18416.35,1632.7,Furnished,low rise,yes,7.61,,02-03-2027,Family,3.5
+486,Green Park Apartments 17,JP NAGAR,3 BHK,22352.71,2106.7,Semi-Furnished,ground floor,yes,1.21,3.5,02-03-2025,BACHELOR,2.1
+487,Royal Residency 26,Koramangala,3BHK,28645.77,1914.4,Unfurnished,Ground Floor,Yes,2.06,1.7,14-02-2025,bachelor,3.9
+488,Sunshine Residency 36,hsr layout,1bhk,16839.29,2146.2,Semi-Furnished,High Rise,YES,1.16,8,22-04-2026,Bachelor,1.4
+489,Royal Residency 1,JP Nagar,3BHK,,1919.5,Furnished,High Rise,YES,8.92,1.4,20-02-2025,BACHELOR,1.6
+490,Sunshine Residency 56,BTM Layout,1 BHK,15032.96,1265.8,UNFURNISHED,low rise,No,1.27,4.5,15-Mar-26,BACHELOR,4.1
+491,Royal Residency 38,Marathahalli,2bhk,18590.21,655.9,Unfurnished,ground floor,No,3.94,2.8,09-03-2025,Bachelor,1.4
+492,Green Park Apartments 74,KORAMANGALA,1 BHK,23419.87,2953.8,unfurnished,Mid Rise,YES,0.77,7.4,19-05-2027,Bachelor,2.4
+493,Metro View 13,Koramangala,1bhk,10093.36,2379.4,Unfurnished,Low Rise,yes,8.67,1.5,02-04-2025,any,3.5
+494,Budget Homes 22,hsr layout,3 BHK,32451.15,1536.7,UNFURNISHED,ground floor,YES,0.29,6.7,17-Mar-27,any,4.3
+495,Elite Apartments 88,hsr layout,3 BHK,25828.01,1606.3,furnished,ground floor,Yes,5.76,1.1,15-Oct-26,BACHELOR,2
+496,Green Park Apartments 20,jayanagar,3BHK,,1311.7,Semi-Furnished,HIGH RISE,Yes,5.54,9.7,13-12-2025,Family,4.3
+497,Budget Homes 29,Koramangala,3bhk,35901.21,1018.5,UNFURNISHED,HIGH RISE,no,6.23,1.4,06-07-2025,family,3.4
+498,City Homes 57,jayanagar,3BHK,27491.66,1425.8,Unfurnished,Mid Rise,no,1.62,2.8,19-02-2027,bachelor,2.8
+499,Urban Heights 32,hsr layout,3bhk,23342.63,2284.5,unfurnished,GROUND FLOOR,Yes,4.05,8.1,16-May-26,FAMILY,1.8
+500,Budget Homes 8,  KORAMANGALA  ,4 BHK,42134.79,1639.6,Furnished,High Rise,No,3.05,6.4,19-06-2025,FAMILY,4.7
+501,Comfort Villa 68,JP NAGAR,3BHK,27735.66,2097,semi-furnished,Ground Floor,YES,2.32,8.5,21-08-2025,bachelor,4.3
+502,Lake View Residency 8,Jayanagar,1bhk,20270.82,794.5,furnished,GROUND FLOOR,Yes,9.62,5.4,17-10-2026,FAMILY,1.8
+503,Comfort Villa 45,hsr layout,3 BHK,33021.14,2016,UNFURNISHED,low rise,YES,6.7,6.5,08-10-2025,FAMILY,4.9
+504,City Homes 100,hsr layout,3bhk,10,616.8,semi-furnished,HIGH RISE,No,1.98,7.3,27-01-2026,any,4.7
+505,Lake View Residency 85,Marathahalli,3BHK,26859.84,2483.3,unfurnished,Low Rise,no,8.71,8.7,22-Feb-27,bachelor,2.4
+506,Royal Residency 1,electronic city,4 BHK,41023.32,1194.2,furnished,low rise,no,6.87,9.8,05-03-2027,FAMILY,5
+507,Budget Homes 14,KORAMANGALA,1bhk,15090.43,763.8,UNFURNISHED,HIGH RISE,YES,3.12,8.3,18-Dec-26,Any,3.4
+508,Metro View 93,hsr layout,4 BHK,43389.27,2978.1,FURNISHED,low rise,no,3.84,8.9,03-12-2026,Family,2.7
+509,Green Park Apartments 4,  BTM Layout  ,3bhk,31420.15,1915.1,Semi-Furnished,Ground Floor,Yes,3.68,3,23-05-2027,family,2.2
+510,Green Park Apartments 88,Whitefield,2 BHK,17972.4,960,semi-furnished,Mid Rise,No,2.78,1,09-06-2026,BACHELOR,2.7
+511,Comfort Villa 9,Electronic City,1 BHK,15945.97,2802.7,FURNISHED,Low Rise,No,0.56,7.3,23-02-2026,any,3.8
+512,Sunshine Residency 59,Marathahalli,2 BHK,,747.1,FURNISHED,Mid Rise,Yes,7.52,7.9,22-Jul-25,Family,
+513,Sunshine Residency 48,Whitefield,3BHK,36320.25,1439,Furnished,GROUND FLOOR,yes,9.33,,15-06-2025,any,2.8
+514,Metro View 56,indiranagar,2bhk,21420.65,1519.6,semi-furnished,HIGH RISE,Yes,2.35,9.7,09-Feb-25,bachelor,2
+515,Sunshine Residency 89,Indiranagar,1BHK,7120.77,1918,FURNISHED,High Rise,YES,0.85,10,02-12-2026,Any,4
+516,City Homes 27,jayanagar,4 BHK,36406.04,714,Unfurnished,low rise,NO,5.23,3.8,11-04-2027,BACHELOR,3.4
+517,Green Park Apartments 28,WHITEFIELD,1bhk,17307.83,1256.1,Semi-Furnished,High Rise,No,0.99,3.5,24-10-2026,bachelor,4.3
+518,Elite Apartments 7,jayanagar,1bhk,5569.78,1561,Unfurnished,Mid Rise,Yes,7.45,6.8,02-06-2027,family,3.9
+519,Lake View Residency 18,HSR Layout,2BHK,19568.64,1885.3,Semi-Furnished,GROUND FLOOR,yes,0.87,8.3,24-02-2025,FAMILY,1.8
+520,Metro View 13,JP Nagar,1 BHK,11915.83,1972.4,FURNISHED,GROUND FLOOR,NO,1.41,9.7,16-08-2025,Bachelor,1.4
+521,Lake View Residency 7,BTM Layout,2bhk,23652.14,535.1,Unfurnished,ground floor,No,3.11,3.1,26-05-2026,FAMILY,1.6
+522,Comfort Villa 99,HSR Layout,1 BHK,24013.33,2785.9,semi-furnished,High Rise,YES,7.84,8.4,17-03-2025,Family,1.9
+523,Royal Residency 75,KORAMANGALA,2bhk,19065.91,564.4,unfurnished,GROUND FLOOR,Yes,4.4,1.8,28-Oct-26,any,3
+524,Green Park Apartments 21,Jayanagar,1 BHK,15304.35,2105.9,UNFURNISHED,Low Rise,no,,7.4,22-12-2025,bachelor,2.6
+525,Metro View 74,indiranagar,4 BHK,41816.89,459.9,unfurnished,Low Rise,Yes,9.89,6.2,20-03-2026,BACHELOR,3.9
+526,City Homes 12,Indiranagar,3BHK,30886.47,2550.8,unfurnished,ground floor,No,4.27,8.9,22-04-2025,BACHELOR,3.3
+527,Budget Homes 56,Marathahalli,2 BHK,23924.04,2079.2,furnished,High Rise,NO,1.33,1.4,13-07-2025,Bachelor,3.2
+528,Green Park Apartments 62,Electronic City,2BHK,14873.37,1454,UNFURNISHED,HIGH RISE,No,6.18,2.4,01-04-2027,any,2
+529,Elite Apartments 73,KORAMANGALA,3 BHK,21427.12,1861.7,Unfurnished,ground floor,No,2.64,9.2,15-01-2027,any,4.2
+530,Royal Residency 89,Jayanagar,1 BHK,11564.91,791.2,UNFURNISHED,ground floor,YES,8.14,9.6,30-Apr-26,Bachelor,1.4
+531,Green Park Apartments 95,Jayanagar,2bhk,16883.46,2277.4,FURNISHED,low rise,,4.34,5.4,01-03-2026,BACHELOR,1.3
+532,Metro View 62,hsr layout,3bhk,32183.67,987.4,unfurnished,GROUND FLOOR,NO,3.58,6.7,01-Apr-26,bachelor,2.3
+533,Metro View 96,JP Nagar,1 BHK,18517.49,1656.7,Furnished,GROUND FLOOR,No,0.45,4.5,18-09-2026,bachelor,3.1
+534,Royal Residency 45,HSR Layout,4 BHK,44065.61,420.7,Unfurnished,low rise,,0.99,8.3,18-12-2025,any,
+535,Lake View Residency 46,Whitefield,1 BHK,357.69,1768,unfurnished,Low Rise,yes,8.58,9.7,04-Jan-25,Family,3.7
+536,Elite Apartments 81,Indiranagar,1BHK,11231.47,1548.7,UNFURNISHED,low rise,No,4.08,5.5,09-03-2025,FAMILY,4.5
+537,Urban Heights 77,electronic city,2BHK,25053.23,2475.5,furnished,GROUND FLOOR,,3.19,7.1,03-11-2025,Family,3.4
+538,Royal Residency 90,HSR Layout,3 BHK,34276.61,1307.5,Furnished,High Rise,NO,3.99,8.8,19-10-2026,Bachelor,2.6
+539,Comfort Villa 46,electronic city,2 BHK,25954.86,1418.4,Semi-Furnished,low rise,Yes,2.33,7.1,14-02-2026,bachelor,1.5
+540,City Homes 33,  Indiranagar  ,1bhk,12286.91,1021.5,unfurnished,low rise,yes,0.44,,15-05-2026,family,10
+541,Elite Apartments 52,WHITEFIELD,1BHK,20254.4,1863.1,UNFURNISHED,HIGH RISE,Yes,5.61,2.5,11-11-2025,bachelor,3.9
+542,City Homes 5,  Hebbal  ,2bhk,26233.98,2660,FURNISHED,GROUND FLOOR,YES,9.66,6.2,29-12-2025,FAMILY,3.5
+543,Comfort Villa 4,Electronic City,1BHK,17631.59,853.4,Unfurnished,low rise,NO,4.09,7.6,10-Feb-27,Any,4.7
+544,City Homes 100,jayanagar,3 BHK,27307.32,2167.2,semi-furnished,Low Rise,Yes,5.82,5.6,12-09-2026,Family,3.5
+545,Budget Homes 57,Indiranagar,3 BHK,26564.74,2584.7,UNFURNISHED,ground floor,No,5.19 km,1.5,26-07-2026,any,1.9
+546,Metro View 88,Whitefield,1bhk,12393.88,2973.9,Semi-Furnished,Low Rise,NO,3.59,2.1,18-05-2027,Bachelor,2
+547,Urban Heights 12,indiranagar,3bhk,26867.98,1287.4,UNFURNISHED,ground floor,no,4.57,5.5,18-Feb-25,Family,1.1
+548,Lake View Residency 75,Electronic City,3 BHK,37000.41,1768,FURNISHED,GROUND FLOOR,,8.61 km,8.8,15-01-2027,Bachelor,1.3
+549,Urban Heights 29,Hebbal,2bhk,22033.71,958.2,Furnished,Mid Rise,NO,2.83,4.3,18-11-2025,FAMILY,1.7
+550,City Homes 52,hsr layout,3BHK,25085.41,1467.1,UNFURNISHED,low rise,no,1.37,2.2,05-01-2026,BACHELOR,2.1
+551,Lake View Residency 29,indiranagar,2bhk,15273.77,1672.3,Unfurnished,Low Rise,no,2.78,4.6,30-11-2025,BACHELOR,2.5
+552,Elite Apartments 87,WHITEFIELD,1BHK,20686.62,1849,Semi-Furnished,ground floor,No,9.65,9.3,20-07-2025,bachelor,2.9
+553,Green Park Apartments 86,Indiranagar,2bhk,26280.61,699.4,Unfurnished,Low Rise,No,3.34,7.9,12-Dec-26,bachelor,9
+554,Comfort Villa 88,Hebbal,1BHK,12498.87,2617.8,unfurnished,ground floor,YES,5.08,4.1,22-Apr-25,FAMILY,2.8
+555,Comfort Villa 24,hsr layout,1BHK,9086.83,1668.2,Semi-Furnished,Low Rise,YES,1.97,9.3,20-04-2025,BACHELOR,1.3
+556,Metro View 24,Koramangala,1bhk,13142.81,,FURNISHED,low rise,Yes,,7.5,16-09-2025,Bachelor,3.4
+557,City Homes 6,WHITEFIELD,1bhk,15223.92,1341.3,Unfurnished,Low Rise,Yes,5.18,9.3,17-05-2025,any,2.4
+558,Metro View 96,JP NAGAR,2 BHK,21861.54,2875.6,Semi-Furnished,GROUND FLOOR,NO,0.21,1.2,11-May-25,BACHELOR,3.5
+559,Budget Homes 94,Marathahalli,4 BHK,42832.83,1969.5,furnished,low rise,Yes,4.97,2.4,01-12-2025,FAMILY,1.9
+560,Lake View Residency 37,Indiranagar,2BHK,23296.1,2563.3,Furnished,Ground Floor,YES,3.18,4.7,31-08-2025,BACHELOR,9.6
+561,Elite Apartments 79,btm layout,1bhk,,1076.9,FURNISHED,low rise,Yes,1.91,8.3,23-02-2027,Any,2.6
+562,Royal Residency 82,Marathahalli,2 BHK,22958.65,2979.9,Furnished,Mid Rise,yes,4.71,3,26-04-2025,any,3.1
+563,City Homes 85,Hebbal,1bhk,20676.15,,UNFURNISHED,GROUND FLOOR,no,2.04,,01-12-2026,Family,1.5
+564,Royal Residency 13,jayanagar,1BHK,21056.22,735.2,Furnished,High Rise,No,1.29,9,25-04-2025,FAMILY,2.7
+565,Elite Apartments 72,WHITEFIELD,1 BHK,14074.7,666.8,Furnished,Mid Rise,no,3.95,4.5,09-06-2025,Any,4.6
+566,Elite Apartments 76,Koramangala,2bhk,19640.26,1244.9,UNFURNISHED,low rise,No,3.58,4,01-11-2025,bachelor,3.1
+567,Budget Homes 75,JP NAGAR,3BHK,37036.84,2360.3,Furnished,Mid Rise,YES,5.73,1,23-03-2026,any,3.3
+568,Royal Residency 63,Koramangala,1BHK,13452.76,1359.5,furnished,Mid Rise,No,4.43,6.8,03-01-2025,BACHELOR,5
+569,Elite Apartments 26,Koramangala,2BHK,19087.67,1016.1,semi-furnished,GROUND FLOOR,YES,5.99,1.8,31-03-2027,FAMILY,1.6
+570,Elite Apartments 92,HSR Layout,1bhk,14583.19,2047,FURNISHED,Ground Floor,yes,1.35,4.9,10-Oct-25,FAMILY,2.4
+571,Budget Homes 44,jayanagar,3bhk,23660.41,585,Semi-Furnished,Mid Rise,yes,2.98,1.4,09-12-2025,Bachelor,4
+572,Sunshine Residency 32,WHITEFIELD,3BHK,24723.74,2061.5,semi-furnished,ground floor,No,8.71,3.6,25-05-2026,bachelor,1.1
+573,Royal Residency 39,Marathahalli,1bhk,19698.92,843.7,Unfurnished,Ground Floor,No,4.25,3.1,09-02-2026,Family,
+574,Royal Residency 80,JP Nagar,1BHK,11559.89,493,semi-furnished,Low Rise,no,1.61,2.2,24-09-2025,any,4.5
+575,Elite Apartments 15,Marathahalli,3BHK,,2176.9,Furnished,low rise,NO,8,7.7,15-03-2025,family,2.7
+576,Elite Apartments 17,HSR Layout,3BHK,33068.51,1288,Furnished,ground floor,no,8.5,8.6,23-08-2025,any,3.9
+577,Green Park Apartments 8,Whitefield,3BHK,,2462.3,Semi-Furnished,ground floor,No,6.74,,29-01-2026,BACHELOR,2.8
+578,Elite Apartments 72,Electronic City,3BHK,32005.07,1132.6,furnished,Mid Rise,yes,3.34,8.7,13-Feb-26,family,2.9
+579,City Homes 45,Electronic City,1bhk,28084.21,1379.2,Semi-Furnished,High Rise,Yes,6.18,3,19-Oct-26,BACHELOR,1.9
+580,Lake View Residency 39,hsr layout,1BHK,15337.26,,Semi-Furnished,Mid Rise,YES,8.05,6.8,27-05-2027,FAMILY,4.1
+581,Metro View 13,Indiranagar,1bhk,6649.73,949.2,semi-furnished,Low Rise,yes,1.62,2.9,11-03-2026,FAMILY,3.4
+582,Budget Homes 1,  Indiranagar  ,2BHK,25372.94,601.4,FURNISHED,HIGH RISE,no,8.25,9.8,13-01-2025,bachelor,1.1
+583,Urban Heights 14,JP Nagar,3bhk,31747.94,1533,Unfurnished,ground floor,No,5.92,3.2,01-05-2025,Family,3.4
+584,Urban Heights 46,Whitefield,2 BHK,7226.3,1202.3,Unfurnished,Low Rise,NO,6.33,8.4,25-01-2026,BACHELOR,4.5
+585,Budget Homes 41,Koramangala,2bhk,21309.78,2148.3,Semi-Furnished,ground floor,No,7.12,1.6,19-May-27,Any,4.1
+586,Royal Residency 46,Electronic City,3bhk,32321,479.6,semi-furnished,low rise,NO,4.22,9.8,16-02-2027,Bachelor,4.2
+587,Lake View Residency 68,HSR Layout,3bhk,27295.25,2947.5,furnished,Low Rise,NO,6.97,4.3,01-Nov-25,any,2.5
+588,Sunshine Residency 3,hsr layout,2 BHK,24112.85,2418.5,FURNISHED,Ground Floor,Yes,2.03,5.4,07-10-2026,bachelor,4.1
+589,Budget Homes 62,hsr layout,2BHK,24935.08,1553.4,UNFURNISHED,GROUND FLOOR,no,5.72,4.1,01-09-2025,bachelor,2.3
+590,Lake View Residency 24,btm layout,2BHK,20797.98,906,Unfurnished,Ground Floor,no,4.09,7.9,19-03-2026,Family,1.6
+591,Budget Homes 9,JP NAGAR,2BHK,17487.03,1427.2,semi-furnished,High Rise,yes,8.04,5.2,12-12-2025,Bachelor,3.8
+592,Lake View Residency 86,Marathahalli,4 BHK,43040.2,1595.2,Unfurnished,Mid Rise,Yes,8.72,8.5,17-12-2026,family,4.3
+593,Royal Residency 51,Hebbal,3BHK,,2634.9,Furnished,low rise,Yes,2.57,3,11-Jul-26,bachelor,3.4
+594,Metro View 2,Electronic City,3bhk,29820.91,1935.6,semi-furnished,low rise,no,0.27,5.8,16-05-2025,BACHELOR,4.8
+595,Budget Homes 79,Marathahalli,1 BHK,10506.34,889.9,Unfurnished,HIGH RISE,YES,,2.7,13-09-2026,Family,4.5
+596,Urban Heights 83,BTM Layout,3bhk,36559.95,1995.2,furnished,ground floor,no,8.95,2.9,19-03-2027,bachelor,4.5
+597,Sunshine Residency 49,WHITEFIELD,3 BHK,28831.43,1159.2,Furnished,ground floor,YES,8.09,4.7,07-01-2027,Family,1.2
+598,Lake View Residency 78,JP Nagar,3BHK,41044.86,2193.8,semi-furnished,GROUND FLOOR,YES,7.6,4.9,19-01-2027,bachelor,3.8
+599,Lake View Residency 68,electronic city,2bhk,23318.65,1012.6,FURNISHED,low rise,YES,2.69,8.2,21-01-2027,bachelor,2.8
+600,Metro View 92,JP NAGAR,4 BHK,40836.01,2911.9,semi-furnished,HIGH RISE,Yes,6.98,7,25-04-2027,FAMILY,5
+601,Metro View 96,  JP Nagar  ,1BHK,13773.84,1956.4,furnished,High Rise,NO,6.21 km,1,14-05-2026,any,1.3
+602,Elite Apartments 5,Electronic City,2 BHK,20562.45,1375.3,Unfurnished,Low Rise,Yes,9.7,1.8,07-05-2026,Bachelor,4.1
+603,Urban Heights 62,btm layout,2bhk,13598.55,1123.5,furnished,Low Rise,no,7.47,6.3,28-12-2026,FAMILY,1.2
+604,Sunshine Residency 66,HSR Layout,3BHK,32422.11,842.7,Furnished,HIGH RISE,NO,8.53,6.7,18-04-2025,Any,3.7
+605,Sunshine Residency 11,HSR Layout,2 BHK,21964.55,1276.1,Semi-Furnished,low rise,yes,1.82,9.3,16-Oct-25,family,4.8
+606,Comfort Villa 29,Indiranagar,4 BHK,,1527.9,FURNISHED,HIGH RISE,No,1.65,7.1,01-02-2025,Any,3
+607,Royal Residency 80,jayanagar,3bhk,34013.07,611.4,Unfurnished,Low Rise,no,8.94,8.7,12-03-2025,BACHELOR,1.3
+608,Elite Apartments 27,indiranagar,4 BHK,38482.25,2822.1,semi-furnished,Ground Floor,YES,5.5,,08-08-2026,Family,2.8
+609,Urban Heights 7,Whitefield,2bhk,17007.02,670.7,Unfurnished,HIGH RISE,yes,4.49,6.6,05-02-2025,Any,8.5
+610,Lake View Residency 86,Electronic City,4 BHK,36705.06,2366.3,Unfurnished,GROUND FLOOR,No,3.9,1.5,27-Oct-25,Any,1.1
+611,Urban Heights 57,indiranagar,1BHK,18600.19,1028.8,Furnished,HIGH RISE,YES,8.72,7.4,30-04-2027,family,4.1
+612,Sunshine Residency 42,Hebbal,1BHK,16962.72,2252,semi-furnished,Ground Floor,yes,8.08,4.4,30-06-2027,FAMILY,1.6
+613,Metro View 14,HSR Layout,1 BHK,15721.3,956.1,Furnished,Low Rise,Yes,1.05,8.2,22-Apr-26,bachelor,7.1
+614,Budget Homes 24,KORAMANGALA,3bhk,26723.69,1718.2,Semi-Furnished,High Rise,Yes,8.78,9.6,19-May-26,Any,1.8
+615,Lake View Residency 24,Electronic City,2 BHK,13737.02,2312.5,Furnished,High Rise,yes,9.48,1.7,14-11-2025,FAMILY,4.6
+616,City Homes 72,electronic city,1 BHK,18096.13,1266.8,furnished,low rise,,5.87 km,4.4,27-04-2027,BACHELOR,2.3
+617,City Homes 5,KORAMANGALA,3 BHK,27850.77,2434.9,UNFURNISHED,HIGH RISE,yes,9.57,4.8,01-11-2025,BACHELOR,1
+618,Sunshine Residency 16,  Marathahalli  ,1 BHK,20294.31,1220.7,furnished,ground floor,no,6.73,8.1,08-Feb-25,family,4.9
+619,Green Park Apartments 15,BTM Layout,2 BHK,28761.94,2518.4,semi-furnished,Mid Rise,NO,4.04,8.5,07-11-2026,Family,1.2
+620,City Homes 76,BTM Layout,1BHK,10998.7,1028.9,Unfurnished,Mid Rise,Yes,3.47,5,03-10-2026,Any,1.1
+621,Metro View 90,KORAMANGALA,3 BHK,34651.71,2508.4,unfurnished,ground floor,yes,,7.5,18-11-2025,any,2.6
+622,Metro View 97,indiranagar,3BHK,40750.8,2517.6,Unfurnished,HIGH RISE,yes,2.01,3.9,17-08-2025,Family,3
+623,Elite Apartments 54,Koramangala,1BHK,20034.92,2733,Semi-Furnished,ground floor,YES,3.94,3.4,05-Aug-26,BACHELOR,1.7
+624,City Homes 73,JP NAGAR,1 BHK,15133.31,529,UNFURNISHED,High Rise,Yes,6.28,2.7,18-10-2026,Any,2.7
+625,Royal Residency 61,Indiranagar,3BHK,,795.3,UNFURNISHED,ground floor,no,0.55,2.7,27-Apr-26,FAMILY,1.2
+626,Comfort Villa 87,WHITEFIELD,3BHK,35385.22,594.8,Furnished,High Rise,No,7.93,2.2,08-11-2025,family,1.6
+627,Lake View Residency 52,WHITEFIELD,3 BHK,35292.21,1677.2,Unfurnished,ground floor,YES,1.18,9.4,18-06-2027,Bachelor,3.6
+628,Urban Heights 43,Whitefield,2bhk,22916.56,1485.9,FURNISHED,low rise,YES,2.89,6.4,20-04-2026,any,4.6
+629,Comfort Villa 83,Whitefield,2bhk,19723.47,2666.3,UNFURNISHED,Ground Floor,no,4.9,8.5,03-01-2027,FAMILY,1.8
+630,Comfort Villa 10,KORAMANGALA,1 BHK,15222.3,1967.8,semi-furnished,Mid Rise,no,3.39,7.4,04-04-2027,BACHELOR,
+631,Sunshine Residency 75,JP Nagar,3 BHK,32529.92,1208.5,UNFURNISHED,HIGH RISE,yes,4.98,9.3,09-Jun-27,bachelor,8.1
+632,Metro View 50,BTM Layout,2bhk,500000,782.5,Furnished,Mid Rise,No,6.47,2.7,27-May-27,bachelor,4.4
+633,Lake View Residency 45,BTM Layout,3 BHK,27298.4,1862.6,UNFURNISHED,low rise,Yes,1.73,2.3,16-09-2026,bachelor,2.3
+634,Budget Homes 60,Hebbal,4 BHK,45763.42,2369.1,FURNISHED,High Rise,No,6.17,8,29-07-2025,any,2.4
+635,Lake View Residency 64,btm layout,1 BHK,17359.64,620.3,FURNISHED,GROUND FLOOR,No,8.5,3.4,06-Mar-25,Family,1.5
+636,City Homes 44,jayanagar,2 BHK,25870.5,1857.9,Furnished,GROUND FLOOR,Yes,7.09 km,4.4,08-09-2025,BACHELOR,1.1
+637,Green Park Apartments 56,Koramangala,4 BHK,49954.28,1274.6,Unfurnished,Ground Floor,NO,9.46,4.4,25-05-2025,any,2.9
+638,Budget Homes 4,JP Nagar,4 BHK,36570.61,2033.8,Furnished,ground floor,No,9.77,5.3,05-05-2027,Family,1.5
+639,City Homes 81,Electronic City,2bhk,19838.49,2134.2,Semi-Furnished,Low Rise,,1.47,2,09-11-2026,BACHELOR,2.5
+640,Comfort Villa 70,jayanagar,1 BHK,24632.75,2377.9,Furnished,GROUND FLOOR,yes,6.57,9.2,01-Nov-25,Family,2.4
+641,Royal Residency 15,jayanagar,2BHK,13858.42,2201.2,Furnished,GROUND FLOOR,Yes,6.3 km,2.8,07-08-2026,Bachelor,1.1
+642,City Homes 27,Jayanagar,2BHK,24268.58,1428.9,furnished,HIGH RISE,NO,8,7.9,06-05-2026,family,3.7
+643,Lake View Residency 39,JP NAGAR,4 BHK,45986.43,1110.9,furnished,HIGH RISE,NO,4.28,1.2,24-03-2027,Family,3.5
+644,Comfort Villa 5,jayanagar,4 BHK,51794.81,1474,Semi-Furnished,HIGH RISE,Yes,8.02,1.4,04-Aug-25,family,4.7
+645,Elite Apartments 3,electronic city,4 BHK,42898.75,1751.8,UNFURNISHED,Mid Rise,No,3.49,2.9,07-02-2027,family,3.6
+646,Elite Apartments 68,Hebbal,3bhk,32399.16,2139.2,Unfurnished,High Rise,NO,,6.6,05-01-2025,Family,1.7
+647,Royal Residency 63,jayanagar,3 BHK,38625.56,1114.1,semi-furnished,ground floor,NO,9.39,1.6,17-Jan-25,bachelor,3.7
+648,Green Park Apartments 67,JP NAGAR,1 BHK,24168.44,1009.6,UNFURNISHED,High Rise,No,6.18,7.8,26-09-2025,Family,1.2
+649,Green Park Apartments 62,indiranagar,1 BHK,15340.76,598.4,Semi-Furnished,High Rise,no,6.91,4.4,15-04-2025,Any,1.3
+650,Green Park Apartments 94,KORAMANGALA,3bhk,36022.24,519,semi-furnished,Ground Floor,NO,9.65,3,18-06-2026,BACHELOR,2.5
+651,Comfort Villa 63,WHITEFIELD,3 BHK,27233.47,565.1,unfurnished,Ground Floor,No,0.43,3.7,30-10-2025,bachelor,2.9
+652,Royal Residency 46,BTM Layout,1BHK,16257.05,1174.4,Semi-Furnished,Ground Floor,No,9.84,6.5,23-09-2026,Family,2.4
+653,Elite Apartments 55,hsr layout,3bhk,30737.67,,Unfurnished,HIGH RISE,No,6.54,5.8,27-05-2027,any,2
+654,Lake View Residency 49,JP Nagar,1BHK,14718.13,1981.5,Furnished,ground floor,YES,6.8,2.4,11-05-2027,BACHELOR,3.6
+655,Sunshine Residency 68,Whitefield,1 BHK,17945.27,831.9,unfurnished,Low Rise,NO,3.64,4,15-Dec-25,FAMILY,1.3
+656,Budget Homes 59,JP NAGAR,2 BHK,23658.53,2857.8,UNFURNISHED,High Rise,Yes,6.46,3.8,15-10-2025,family,3.6
+657,Sunshine Residency 54,JP Nagar,1 BHK,20577.88,778.3,Furnished,low rise,yes,9.41,4.8,19-03-2025,Bachelor,1.1
+658,City Homes 28,JP Nagar,3 BHK,26830.03,2861.9,furnished,Low Rise,YES,3.7,8.3,22-01-2026,Any,1.6
+659,Royal Residency 25,btm layout,1bhk,16410.38,2453.7,unfurnished,HIGH RISE,no,7.62,2.8,22-03-2027,family,1.7
+660,Lake View Residency 44,Jayanagar,2BHK,15961.77,980,FURNISHED,HIGH RISE,no,7.49 km,9.9,29-09-2025,family,3.4
+661,Elite Apartments 43,KORAMANGALA,1bhk,13599.74,,Furnished,low rise,NO,7.35 km,9,14-04-2027,FAMILY,4.9
+662,Budget Homes 24,Indiranagar,3BHK,,2951,FURNISHED,HIGH RISE,No,9.86,9.5,31-01-2025,Family,3.2
+663,City Homes 69,hsr layout,3 BHK,24076.76,2773.8,FURNISHED,High Rise,YES,1.15,7.1,09-06-2026,any,2.2
+664,Green Park Apartments 31,Whitefield,1bhk,7772.33,1728.5,Semi-Furnished,Mid Rise,No,6.88,5.7,15-10-2025,Family,4.4
+665,Urban Heights 81,WHITEFIELD,1BHK,16508.46,1994.1,UNFURNISHED,Low Rise,Yes,3.77,4.8,06-May-25,BACHELOR,1.6
+666,Elite Apartments 31,indiranagar,4 BHK,47618.77,433.3,Unfurnished,Low Rise,Yes,6.7,7.3,22-08-2026,Family,4.7
+667,Metro View 46,HSR Layout,3bhk,34646.49,740.3,UNFURNISHED,low rise,No,4.7,1,05-03-2027,family,3.4
+668,Sunshine Residency 55,JP NAGAR,1 BHK,16989.47,756.9,furnished,Mid Rise,No,0.21,10,01-05-2025,FAMILY,1.1
+669,Urban Heights 100,Electronic City,1BHK,7421.29,2295.3,semi-furnished,low rise,No,2.33,1.8,11-08-2025,Family,4.5
+670,Elite Apartments 84,electronic city,2 BHK,22688.41,579.3,Semi-Furnished,HIGH RISE,NO,6.99,3.5,20-12-2025,any,3.7
+671,Budget Homes 78,BTM Layout,1bhk,11690.88,1425,UNFURNISHED,Ground Floor,YES,4.59,3.9,04-12-2026,FAMILY,2.6
+672,Budget Homes 87,jayanagar,2BHK,24369.76,1200.9,Semi-Furnished,low rise,yes,2.5,6.8,09-05-2026,family,5
+673,Urban Heights 59,Hebbal,3 BHK,36447.34,1743.7,Unfurnished,Ground Floor,no,0.21,3.3,14-12-2025,BACHELOR,1.8
+674,City Homes 48,KORAMANGALA,3 BHK,29203.67,1105.7,unfurnished,Low Rise,yes,4.1,5.9,20-02-2025,FAMILY,4
+675,Comfort Villa 96,BTM Layout,2BHK,25677.27,2293,unfurnished,High Rise,yes,1.3,1.8,18-01-2025,Family,2.4
+676,Metro View 96,JP Nagar,1BHK,9421.35,2554.1,Unfurnished,Ground Floor,YES,4.23,2.2,16-03-2025,Bachelor,1.7
+677,Elite Apartments 8,btm layout,3bhk,33014.1,537.2,semi-furnished,GROUND FLOOR,NO,5.55,3.5,13-04-2027,family,1.6
+678,Elite Apartments 99,Whitefield,1bhk,,2624.5,UNFURNISHED,HIGH RISE,Yes,0.56,2.3,20-08-2025,Bachelor,4.7
+679,Budget Homes 48,HSR Layout,1bhk,13865.24,2194,unfurnished,Ground Floor,NO,3.54,2.3,08-12-2025,Any,3.3
+680,Metro View 50,Hebbal,2BHK,15620.79,2937.4,furnished,High Rise,No,8.15,5.5,21-07-2025,Any,3.9
+681,Royal Residency 13,electronic city,4 BHK,38158.52,824.7,semi-furnished,ground floor,no,9.42,3.2,29-May-25,any,4
+682,Metro View 79,Hebbal,2 BHK,23604.33,881.8,Unfurnished,low rise,No,3.46,3.4,20-04-2027,bachelor,1.7
+683,Comfort Villa 18,Electronic City,1bhk,11803.82,1999.1,semi-furnished,HIGH RISE,yes,0.34,8.7,21-10-2025,Bachelor,4.9
+684,Sunshine Residency 31,Hebbal,1bhk,19066.33,1267.2,semi-furnished,HIGH RISE,No,1.34,3.1,19-09-2026,Any,4.8
+685,Green Park Apartments 81,Whitefield,3bhk,30220,2862.9,semi-furnished,High Rise,no,,5.5,04-06-2027,FAMILY,1.4
+686,Lake View Residency 83,Electronic City,1BHK,12778.94,1950.4,unfurnished,GROUND FLOOR,yes,6.58,6.4,23-03-2025,family,3.9
+687,Sunshine Residency 91,KORAMANGALA,3bhk,30235.65,2097.5,Furnished,High Rise,Yes,5.9,8.4,27-03-2025,any,2.9
+688,Sunshine Residency 71,btm layout,1BHK,12638.25,1506.4,Unfurnished,Mid Rise,NO,6.55,2.4,05-09-2025,Any,4.3
+689,Elite Apartments 40,btm layout,1BHK,12118.57,1431.7,furnished,High Rise,no,2.19,9.1,12-12-2025,BACHELOR,4.3
+690,Lake View Residency 89,Hebbal,4 BHK,,655.8,semi-furnished,ground floor,yes,6.61,3.9,21-09-2026,family,2.2
+691,Urban Heights 58,Marathahalli,1bhk,16401.92,1585.5,FURNISHED,High Rise,yes,8.96,2.5,01-03-2027,Family,3.6
+692,Green Park Apartments 83,Hebbal,3bhk,31805.57,1769.6,FURNISHED,ground floor,no,1.94 km,2.4,22-Jul-25,Family,4.7
+693,Sunshine Residency 73,HSR Layout,1BHK,11789.73,2567.5,Unfurnished,HIGH RISE,No,1.33,9.5,30-08-2026,BACHELOR,3.7
+694,City Homes 29,jayanagar,3BHK,32456.33,791,Furnished,ground floor,YES,7.01,5.8,21-03-2026,Family,2.5
+695,Sunshine Residency 61,WHITEFIELD,1BHK,4436.97,-100,UNFURNISHED,low rise,no,5.71,5,05-03-2027,Any,1.5
+696,Green Park Apartments 35,BTM Layout,3BHK,36472.82,893.5,Semi-Furnished,Low Rise,Yes,5.21,1.5,10-Feb-26,family,1
+697,Lake View Residency 43,  BTM Layout  ,3BHK,30695.61,1886.2,Unfurnished,High Rise,YES,4.87,8,28-01-2025,FAMILY,3.3
+698,Comfort Villa 40,WHITEFIELD,3 BHK,27697.39,2021.6,unfurnished,GROUND FLOOR,Yes,1.73,8,31-12-2026,bachelor,2
+699,City Homes 35,hsr layout,3bhk,29837.33,1013,semi-furnished,HIGH RISE,NO,4.35,4.5,26-Jul-26,BACHELOR,3.3
+700,Royal Residency 54,jayanagar,4 BHK,47184.78,2041.3,Unfurnished,low rise,Yes,5.15,5.6,03-10-2026,Family,1
+701,Urban Heights 68,hsr layout,4 BHK,42161.37,807,unfurnished,low rise,Yes,1.82,8.4,14-03-2027,BACHELOR,
+702,Urban Heights 8,Whitefield,1BHK,12654.54,1811,Semi-Furnished,HIGH RISE,no,9.22,9.6,30-Jan-26,FAMILY,
+703,Urban Heights 14,BTM Layout,2 BHK,28910.19,726.4,UNFURNISHED,High Rise,yes,2.69,4.2,06-11-2025,Any,1.5
+704,Budget Homes 29,Jayanagar,2 BHK,19764.44,2519.6,Semi-Furnished,low rise,YES,3.63,5,27-04-2025,FAMILY,2.5
+705,City Homes 67,JP Nagar,2 BHK,19652.86,663.8,Unfurnished,ground floor,Yes,1.38,6.5,09-04-2026,FAMILY,1.9
+706,Urban Heights 47,HSR Layout,4 BHK,44389.77,,furnished,Low Rise,Yes,5.38,4.8,14-04-2026,Bachelor,3.4
+707,Royal Residency 7,Marathahalli,2bhk,34222.2,2836.9,Semi-Furnished,ground floor,yes,4.2,4,20-08-2025,FAMILY,3.3
+708,Sunshine Residency 68,  Hebbal  ,1 BHK,20880.52,956.7,Unfurnished,Ground Floor,NO,5.68,2.7,10-09-2026,BACHELOR,1.4
+709,Green Park Apartments 34,Electronic City,1 BHK,13332.43,2453.1,unfurnished,GROUND FLOOR,YES,4.64,3.8,26-03-2025,family,3.2
+710,Green Park Apartments 74,KORAMANGALA,1 BHK,15115.52,769.4,FURNISHED,HIGH RISE,YES,1.06,3,16-12-2025,Family,1.9
+711,Urban Heights 95,KORAMANGALA,2BHK,31319.61,938.8,furnished,Ground Floor,No,1.61,4.6,25-02-2026,FAMILY,3
+712,Elite Apartments 69,Whitefield,4 BHK,47736.71,1621.1,furnished,Ground Floor,no,8.97,1.8,22-03-2027,Family,3.1
+713,Elite Apartments 94,Hebbal,2bhk,24460.23,2571.6,UNFURNISHED,Ground Floor,NO,9.74,5.7,23-12-2026,family,4
+714,Metro View 35,  hsr layout  ,1bhk,12858.19,1726.5,UNFURNISHED,ground floor,yes,3.13,9.5,25-02-2027,BACHELOR,1.4
+715,Metro View 71,btm layout,3BHK,30332.18,1241.8,furnished,GROUND FLOOR,No,7.94,4.7,13-02-2027,Family,1.8
+716,Elite Apartments 39,JP Nagar,2bhk,20988.96,2178.4,Unfurnished,Low Rise,No,6.72,8.7,01-04-2027,family,4.7
+717,City Homes 100,KORAMANGALA,2 BHK,19901.08,834.4,Semi-Furnished,Ground Floor,Yes,5.95,2.8,07-03-2025,bachelor,4.7
+718,Sunshine Residency 13,Whitefield,2BHK,22569.82,2231.6,furnished,Low Rise,NO,4.64,1.6,28-11-2025,family,1.4
+719,Royal Residency 89,btm layout,1bhk,6590.01,985,Semi-Furnished,Mid Rise,Yes,4.18,4.1,12-03-2027,family,3.7
+720,Sunshine Residency 3,WHITEFIELD,3bhk,28354.84,2547.5,unfurnished,Mid Rise,yes,5.86,9.3,05-06-2026,Family,2.5
+721,Lake View Residency 26,KORAMANGALA,1bhk,12877.4,649.8,Unfurnished,Ground Floor,Yes,0.34,6.2,29-08-2026,any,1.7
+722,Comfort Villa 49,hsr layout,3bhk,-1000,1136.4,UNFURNISHED,High Rise,NO,3.54,1.7,15-08-2026,BACHELOR,2.7
+723,Lake View Residency 51,JP NAGAR,1BHK,14784.34,1236.4,semi-furnished,High Rise,NO,9.1,8.9,01-10-2026,bachelor,3.4
+724,Sunshine Residency 63,btm layout,2 BHK,17100.51,1160.6,Unfurnished,low rise,YES,1.35,4.1,07-Mar-27,Any,4.6
+725,Green Park Apartments 97,Whitefield,2bhk,22668.7,795.8,Semi-Furnished,Mid Rise,NO,2.58,1.5,30-03-2027,any,3.3
+726,Metro View 40,WHITEFIELD,2 BHK,17958.16,1825.5,Furnished,Mid Rise,YES,3.91,6.1,06-02-2026,family,
+727,City Homes 22,Marathahalli,2BHK,28679.89,998.9,FURNISHED,Mid Rise,NO,3.18,4.6,05-07-2025,Family,3.9
+728,Budget Homes 1,JP Nagar,3bhk,34941.11,2536.8,Furnished,Ground Floor,YES,1.18,9.3,10-05-2027,Bachelor,7.8
+729,Sunshine Residency 78,Indiranagar,1bhk,12613.56,2813.6,unfurnished,Ground Floor,NO,7.91,3.6,15-Nov-25,BACHELOR,1.8
+730,Urban Heights 62,hsr layout,3BHK,24454.01,2015.4,Furnished,GROUND FLOOR,Yes,1.47,3.6,27-04-2027,family,3.9
+731,Sunshine Residency 10,Koramangala,2 BHK,20697.41,2169.3,FURNISHED,Ground Floor,Yes,3.86,3.5,07-10-2026,BACHELOR,3
+732,Elite Apartments 60,WHITEFIELD,4 BHK,47273.33,2347.4,Semi-Furnished,ground floor,yes,9.34,1.9,05-01-2025,Family,2.1
+733,Budget Homes 24,HSR Layout,3bhk,34175.19,1526,unfurnished,High Rise,NO,3.93,3.3,18-01-2026,BACHELOR,2.6
+734,Green Park Apartments 89,indiranagar,2BHK,24828.86,99999,FURNISHED,Mid Rise,no,7.8,1.4,15-08-2026,family,3.6
+735,Comfort Villa 70,  electronic city  ,2BHK,32597.01,2901.6,unfurnished,Mid Rise,Yes,3.04,7.5,21-09-2026,Any,3.8
+736,Lake View Residency 87,Electronic City,4 BHK,,1152.1,semi-furnished,Mid Rise,YES,2.74 km,5,28-04-2025,family,2.6
+737,Royal Residency 99,KORAMANGALA,1bhk,18696.46,99999,Furnished,HIGH RISE,yes,5.13,,07-07-2026,bachelor,4.6
+738,Royal Residency 17,Marathahalli,2BHK,18406.64,1420.1,unfurnished,low rise,yes,4.15,1.7,03-05-2025,BACHELOR,1.5
+739,Budget Homes 52,indiranagar,4 BHK,55931.54,1287.4,Furnished,HIGH RISE,YES,5.88,4,02-03-2025,family,1.5
+740,Budget Homes 28,  Electronic City  ,3bhk,34495.53,1707.6,UNFURNISHED,HIGH RISE,No,3.43,1.4,24-02-2026,BACHELOR,3.5
+741,Royal Residency 37,KORAMANGALA,4 BHK,48764,0,semi-furnished,Low Rise,NO,5.66,8.7,02-Nov-26,any,2.3
+742,Royal Residency 93,jayanagar,1bhk,16881.87,2650.7,FURNISHED,HIGH RISE,No,6.22,9.9,15-03-2025,FAMILY,1.4
+743,Sunshine Residency 92,  KORAMANGALA  ,2BHK,20131.11,903.3,Semi-Furnished,High Rise,YES,6.93,9.4,12-05-2027,Bachelor,4.9
+744,Sunshine Residency 4,KORAMANGALA,2 BHK,24683.43,2565.8,unfurnished,High Rise,YES,6.6,6.9,01-07-2025,family,1.3
+745,Sunshine Residency 34,  WHITEFIELD  ,1BHK,14770.51,1918.6,UNFURNISHED,Ground Floor,Yes,0.95,6.6,23-03-2026,any,3.7
+746,Green Park Apartments 18,hsr layout,3bhk,40782.63,723,UNFURNISHED,ground floor,YES,0.43,6.3,10-07-2026,family,2.1
+747,City Homes 51,Marathahalli,1 BHK,14379.94,616.7,UNFURNISHED,Low Rise,no,4.23,6.1,27-08-2025,BACHELOR,4.3
+748,Metro View 48,indiranagar,2BHK,21525.37,788,semi-furnished,Ground Floor,Yes,7.92,8.6,11-10-2025,FAMILY,3.7
+749,Lake View Residency 15,HSR Layout,3 BHK,30176.81,518.2,furnished,low rise,Yes,8.37,7.3,20-Jul-25,family,4.3
+750,Urban Heights 29,Jayanagar,3bhk,33132.69,2018.7,Furnished,low rise,NO,,1.4,13-Feb-27,Bachelor,2.6
+751,Comfort Villa 58,JP NAGAR,3bhk,43365.16,980.2,Furnished,Low Rise,No,1.35,1.1,23-Jul-26,BACHELOR,1.4
+752,Metro View 68,Indiranagar,1BHK,11338.62,549.8,Furnished,ground floor,no,8.61,3,17-11-2025,Bachelor,4.6
+753,Metro View 75,Koramangala,2BHK,24964.48,610.6,UNFURNISHED,HIGH RISE,Yes,1.63,7.5,18-07-2025,BACHELOR,1.7
+754,Elite Apartments 39,electronic city,1 BHK,12888.07,1246,semi-furnished,ground floor,YES,7.49,9.7,24-01-2026,bachelor,3.3
+755,Elite Apartments 70,Jayanagar,2bhk,20813.58,2752,unfurnished,Mid Rise,YES,5.26,4.8,09-09-2025,bachelor,
+756,City Homes 27,Indiranagar,1bhk,,946.2,UNFURNISHED,Mid Rise,No,8.55,7.3,11-07-2026,FAMILY,1.2
+757,Budget Homes 16,Whitefield,1BHK,14705.08,2626.4,Unfurnished,ground floor,No,1.15,2.9,03-07-2025,BACHELOR,2.4
+758,Lake View Residency 71,Jayanagar,1BHK,16717.28,1646,unfurnished,ground floor,No,4.05,3.7,20-11-2025,Family,2.3
+759,Sunshine Residency 88,Hebbal,1 BHK,16264.63,0,semi-furnished,ground floor,No,3.42,2.5,13-03-2025,bachelor,2
+760,Comfort Villa 91,Whitefield,3bhk,31874.71,1869.7,FURNISHED,Ground Floor,yes,5.72,7.2,13-02-2026,Any,4.6
+761,Sunshine Residency 14,electronic city,2BHK,25080.63,774.4,unfurnished,HIGH RISE,YES,9.05,8.7,16-05-2025,any,2.6
+762,Metro View 9,btm layout,3 BHK,27580.49,2639.6,furnished,HIGH RISE,no,9.76,2.1,11-02-2027,Bachelor,1.5
+763,Urban Heights 19,KORAMANGALA,1 BHK,15590.78,1040,furnished,ground floor,YES,6.86,5.6,13-03-2026,FAMILY,4.7
+764,City Homes 44,Electronic City,3bhk,31789.58,1143.9,furnished,ground floor,NO,2.92,3.8,07-11-2025,family,4.6
+765,Green Park Apartments 14,jayanagar,4 BHK,52688.94,1934.5,Unfurnished,HIGH RISE,YES,3.72,5.3,22-02-2026,any,3.4
+766,Sunshine Residency 94,Jayanagar,3BHK,31353.81,99999,semi-furnished,low rise,NO,4.67,6.9,31-01-2025,BACHELOR,3.5
+767,Sunshine Residency 64,electronic city,1 BHK,12632.71,950.3,furnished,low rise,yes,9.93,1.5,29-04-2026,Any,
+768,Sunshine Residency 95,HSR Layout,2bhk,15593.78,805.7,Unfurnished,HIGH RISE,YES,7.01,3.7,19-06-2027,FAMILY,4.9
+769,Lake View Residency 44,JP Nagar,1 BHK,14630.22,1635.3,semi-furnished,ground floor,NO,2.96,8,26-05-2025,any,4.3
+770,Urban Heights 75,Indiranagar,2BHK,29272.83,684.1,Semi-Furnished,low rise,yes,6.59,5,05-04-2025,Family,1.1
+771,Metro View 63,btm layout,2BHK,32956.36,0,Semi-Furnished,Ground Floor,yes,2.16,9.9,08-Jan-27,BACHELOR,2.1
+772,Royal Residency 9,Marathahalli,2 BHK,17344.29,771.5,UNFURNISHED,Ground Floor,YES,2.08,3.7,06-Apr-26,BACHELOR,2.9
+773,Metro View 56,jayanagar,2bhk,29365.4,2261.9,FURNISHED,ground floor,no,1.97,1.8,20-03-2026,bachelor,1.5
+774,City Homes 34,btm layout,3 BHK,,2084.4,unfurnished,GROUND FLOOR,No,1.39,8.4,12-Aug-26,Family,3.1
+775,Elite Apartments 81,BTM Layout,3BHK,24278.79,480.3,unfurnished,Mid Rise,No,9.29,9.2,02-11-2026,BACHELOR,3
+776,Sunshine Residency 45,Hebbal,3BHK,28234.1,1610.2,furnished,low rise,Yes,2.49,2.6,21-12-2026,bachelor,3.5
+777,Metro View 63,indiranagar,3BHK,20072.44,2563.1,Furnished,ground floor,No,0.59,6.8,12-Jan-25,Bachelor,2.9
+778,City Homes 95,KORAMANGALA,1 BHK,12951.74,713.4,FURNISHED,ground floor,no,4.7,9.2,18-05-2026,Bachelor,3
+779,Urban Heights 55,Koramangala,3 BHK,31750.51,1848.8,FURNISHED,Low Rise,no,2.76 km,5.8,26-06-2025,Any,2.2
+780,Comfort Villa 82,btm layout,2bhk,21573.17,1062.4,Unfurnished,ground floor,NO,9.91,7.9,09-Dec-25,Bachelor,3.8
+781,Lake View Residency 45,Whitefield,1 BHK,12803.85,1106.4,FURNISHED,low rise,No,9.14,9.9,20-06-2026,family,2.2
+782,Metro View 64,Marathahalli,2 BHK,21215.59,863.1,FURNISHED,low rise,Yes,9.1 km,7.8,22-Mar-27,bachelor,3.4
+783,Lake View Residency 58,Hebbal,1BHK,7876.03,1003.3,Semi-Furnished,ground floor,NO,0.37,3.2,14-08-2025,Bachelor,3.7
+784,Elite Apartments 83,Jayanagar,2BHK,26972.45,1006.4,semi-furnished,High Rise,No,6.09,5.9,22-Jan-25,FAMILY,2.2
+785,Metro View 62,electronic city,1BHK,7310.92,537.5,semi-furnished,low rise,NO,8.9,7.3,16-03-2025,any,4.4
+786,Budget Homes 68,Koramangala,3bhk,32530.21,2094.6,UNFURNISHED,GROUND FLOOR,no,5,3.1,17-04-2026,Bachelor,4.3
+787,Lake View Residency 59,Electronic City,2 BHK,,1698.9,Unfurnished,Low Rise,No,0.34,1.6,12-08-2025,FAMILY,1.9
+788,Green Park Apartments 44,Marathahalli,2bhk,,1622.1,furnished,Ground Floor,no,8.6,5,14-05-2026,Family,3.2
+789,City Homes 21,Hebbal,3bhk,32464.69,2038.7,FURNISHED,low rise,YES,1.73,10,07-10-2025,Family,3.3
+790,Comfort Villa 48,Koramangala,3 BHK,39117.01,2613.8,UNFURNISHED,HIGH RISE,YES,8.59,5,27-01-2026,Bachelor,3.3
+791,Metro View 17,JP Nagar,3BHK,33091.09,2608,furnished,HIGH RISE,YES,9.6,7,14-10-2025,Family,2.5
+792,Urban Heights 25,JP Nagar,2BHK,22240.24,1899,unfurnished,HIGH RISE,no,6.3,3.5,03-09-2025,Any,3.5
+793,Sunshine Residency 80,electronic city,2BHK,12466.46,1159.2,UNFURNISHED,GROUND FLOOR,No,1.83,,29-12-2026,Any,4.9
+794,Elite Apartments 54,jayanagar,4 BHK,48332.3,430.7,semi-furnished,Low Rise,No,1.57,4.7,03-02-2027,BACHELOR,
+795,Comfort Villa 5,jayanagar,1bhk,7062.56,1024.6,FURNISHED,GROUND FLOOR,YES,1.28,,18-02-2027,Family,4.9
+796,Metro View 28,btm layout,2BHK,24993.25,1700.3,Furnished,ground floor,No,5.16,8.9,02-Jan-25,FAMILY,1
+797,Green Park Apartments 34,Indiranagar,1 BHK,24642.05,1809.7,furnished,HIGH RISE,NO,6.39,,22-06-2025,Any,2.5
+798,Elite Apartments 27,Electronic City,1BHK,11123.78,,furnished,Low Rise,NO,6.19,4.2,15-04-2025,any,1.9
+799,Royal Residency 67,Koramangala,1 BHK,16510.49,2203.5,Furnished,High Rise,YES,7.13,5.2,29-Oct-25,BACHELOR,
+800,Urban Heights 17,hsr layout,1BHK,18898.45,1462.6,furnished,ground floor,yes,1.32,8.5,16-08-2025,Family,1.2
+801,City Homes 13,indiranagar,1BHK,22893.94,769.5,furnished,Ground Floor,yes,3.77,2.6,25-07-2025,Bachelor,
+802,Elite Apartments 25,JP Nagar,2bhk,24092.48,,Furnished,Ground Floor,no,8.13,,11-Jan-25,Any,1
+803,City Homes 2,WHITEFIELD,2 BHK,18849.36,2116.6,Unfurnished,ground floor,Yes,3.46,3.8,04-04-2027,family,4.9
+804,Budget Homes 93,jayanagar,2 BHK,500000,1708.7,UNFURNISHED,Ground Floor,No,7.28,7.6,02-01-2025,Any,2.9
+805,Urban Heights 76,Hebbal,1BHK,16341.48,705.1,semi-furnished,GROUND FLOOR,Yes,6.01,1.2,18-02-2025,FAMILY,4.4
+806,Metro View 56,Marathahalli,2BHK,19897.3,2402.8,semi-furnished,GROUND FLOOR,no,2.83,1.3,09-05-2026,family,1.9
+807,Comfort Villa 91,JP Nagar,3BHK,35385.99,2407.3,semi-furnished,Mid Rise,NO,7.65,3.5,03-03-2026,any,1.8
+808,Budget Homes 57,indiranagar,2BHK,14821.68,2004.9,unfurnished,low rise,YES,9.19,8.9,01-05-2025,BACHELOR,1.1
+809,Metro View 100,Marathahalli,1 BHK,15702.76,2423.4,Semi-Furnished,High Rise,,7.48,7.5,24-11-2025,Any,2
+810,Budget Homes 37,Electronic City,3BHK,26044.01,471.1,furnished,Ground Floor,NO,6.38,5.7,09-11-2025,any,3.4
+811,Budget Homes 93,Koramangala,2 BHK,31072.66,1911.7,furnished,Ground Floor,YES,7.35,1,14-Jan-25,BACHELOR,2.5
+812,Budget Homes 57,electronic city,3 BHK,29601.19,2076.3,Unfurnished,Ground Floor,YES,2.12,1.2,09-05-2027,Family,4.4
+813,Elite Apartments 78,Electronic City,1BHK,13679.59,1407.8,semi-furnished,Low Rise,NO,6.21,9.5,18-01-2027,Bachelor,4
+814,Budget Homes 66,JP Nagar,1 BHK,19909.39,1735,UNFURNISHED,low rise,yes,7.73,5,24-03-2026,BACHELOR,2.7
+815,Comfort Villa 94,Hebbal,3bhk,26676.38,1854.6,FURNISHED,High Rise,yes,6.71,5.7,28-08-2025,BACHELOR,1.9
+816,Metro View 19,Koramangala,1BHK,,1310.5,Furnished,Ground Floor,Yes,5.2,3.9,17-04-2025,Any,3.5
+817,Urban Heights 47,HSR Layout,1bhk,11461.19,1222.4,Unfurnished,High Rise,YES,5.86,8.3,08-02-2027,bachelor,1.7
+818,Green Park Apartments 51,Whitefield,3bhk,33508.51,463.3,semi-furnished,Ground Floor,No,4.55,2,01-07-2025,Bachelor,1.1
+819,Royal Residency 64,WHITEFIELD,2bhk,19295.06,610.6,Unfurnished,ground floor,yes,0.29,5.8,21-03-2025,Any,3.7
+820,Green Park Apartments 3,JP NAGAR,2BHK,25321.48,714.1,Unfurnished,HIGH RISE,yes,7.84,5.5,09-02-2027,Family,4.4
+821,Sunshine Residency 1,BTM Layout,3 BHK,31795.59,1684.7,Unfurnished,High Rise,YES,5.5,5.1,24-07-2025,FAMILY,4.3
+822,Green Park Apartments 1,BTM Layout,2bhk,13316.84,929.2,Furnished,High Rise,YES,6.1 km,6.7,16-02-2027,BACHELOR,1.6
+823,Elite Apartments 94,indiranagar,4 BHK,52442.57,1682.4,semi-furnished,Ground Floor,Yes,1.11,3.5,11-06-2027,FAMILY,1.7
+824,Budget Homes 84,HSR Layout,1bhk,25403.51,2203.5,furnished,High Rise,NO,1.85,9.4,17-07-2026,family,2.9
+825,Sunshine Residency 32,Whitefield,3BHK,35387.32,1798.8,FURNISHED,Ground Floor,No,3.86,6.8,19-05-2025,family,3.3
+826,Urban Heights 91,Marathahalli,1 BHK,17946.99,608.9,Furnished,Mid Rise,No,7.47,6.2,16-06-2026,Bachelor,2.3
+827,Elite Apartments 47,btm layout,1BHK,6829.83,1227.3,unfurnished,Ground Floor,YES,4.38,9.9,01-03-2025,BACHELOR,4.1
+828,City Homes 62,JP NAGAR,3BHK,27840.45,2536.6,Furnished,High Rise,no,6.49,1.9,27-Jun-25,BACHELOR,2.2
+829,Green Park Apartments 82,KORAMANGALA,2 BHK,12116.26,1009.2,Furnished,HIGH RISE,NO,1.79,3.6,05-02-2026,Any,2.9
+830,Green Park Apartments 56,electronic city,1 BHK,,2055.8,semi-furnished,High Rise,NO,3.64,4,09-Mar-26,Any,4.7
+831,Royal Residency 14,Koramangala,2bhk,22763.87,1296.7,UNFURNISHED,Mid Rise,no,9.89,6.7,29-01-2025,family,3.2
+832,Urban Heights 74,Marathahalli,3BHK,37291.95,431.3,Semi-Furnished,Ground Floor,No,1.77,5.4,21-12-2025,BACHELOR,3.3
+833,Sunshine Residency 56,Marathahalli,2bhk,17564.81,1684.1,Furnished,Low Rise,No,1.32,1.3,09-03-2027,Bachelor,3.1
+834,Metro View 90,Whitefield,2 BHK,28881.98,1899.2,FURNISHED,Low Rise,No,7.77,2.2,17-04-2026,family,3.2
+835,Comfort Villa 41,indiranagar,2BHK,33062.11,424,UNFURNISHED,HIGH RISE,No,7.4,7.1,21-03-2025,BACHELOR,3.2
+836,Urban Heights 52,BTM Layout,4 BHK,53312.26,797.8,furnished,HIGH RISE,yes,9.38,3.2,14-Oct-26,FAMILY,2
+837,City Homes 82,hsr layout,2bhk,22753.95,1893.6,furnished,HIGH RISE,Yes,1.06,7.3,24-Sep-26,Bachelor,4.4
+838,Comfort Villa 46,btm layout,2 BHK,22810.36,1070.3,Furnished,Low Rise,,0.38,9.3,03-Jun-26,family,2
+839,Budget Homes 22,JP NAGAR,1bhk,17418.08,485.4,unfurnished,Low Rise,YES,8.76,4,13-06-2026,Bachelor,4.3
+840,Urban Heights 25,HSR Layout,4 BHK,41848.27,2233.4,unfurnished,Low Rise,yes,0.93,5.7,12-06-2026,any,3.2
+841,Royal Residency 61,btm layout,3bhk,32219.57,856.7,UNFURNISHED,GROUND FLOOR,no,5.65,2.6,23-Jun-27,Any,2.8
+842,Elite Apartments 95,Indiranagar,2bhk,11924.17,2965.7,unfurnished,ground floor,,2.95,9.7,09-07-2025,Family,3.4
+843,Urban Heights 26,Electronic City,1BHK,18888.13,1335.9,unfurnished,Low Rise,yes,9.06,3,07-04-2025,Bachelor,4.1
+844,Metro View 66,Hebbal,1bhk,18501.93,1457.5,Unfurnished,ground floor,NO,6.9,3.2,14-02-2027,bachelor,
+845,Sunshine Residency 28,Electronic City,1BHK,19511.11,2057.7,semi-furnished,HIGH RISE,YES,9.18,1.9,28-01-2027,any,1.4
+846,Metro View 21,indiranagar,3BHK,33615.58,1579.2,semi-furnished,Mid Rise,no,5.56,1.3,27-11-2026,BACHELOR,4
+847,Budget Homes 7,electronic city,1bhk,9646.35,,UNFURNISHED,Ground Floor,YES,7.01,,09-03-2025,bachelor,2.7
+848,City Homes 100,Jayanagar,3BHK,29174.78,2557.4,UNFURNISHED,HIGH RISE,yes,3.8,2.7,28-07-2025,any,2.8
+849,Royal Residency 17,hsr layout,3bhk,34771.47,2602.2,unfurnished,Low Rise,no,1.69,8,27-03-2027,FAMILY,2.4
+850,Budget Homes 62,JP Nagar,3 BHK,30621.26,2954.5,Furnished,HIGH RISE,No,9.15,1.7,16-03-2027,any,3.2
+851,Elite Apartments 60,Hebbal,1bhk,15031.31,837.6,furnished,Low Rise,Yes,9.08,1.3,08-05-2027,bachelor,4.9
+852,Elite Apartments 30,hsr layout,4 BHK,43548.82,1565.1,Semi-Furnished,HIGH RISE,Yes,7.51,9.4,06-02-2025,family,1.9
+853,Sunshine Residency 73,  Electronic City  ,1 BHK,20938.34,508.1,unfurnished,GROUND FLOOR,,0.82,,17-07-2025,FAMILY,2.4
+854,Budget Homes 82,BTM Layout,2bhk,999999,2791,unfurnished,Ground Floor,yes,0.95,8.4,02-05-2027,FAMILY,3.7
+855,Lake View Residency 19,HSR Layout,1BHK,17579.16,2140.3,Furnished,ground floor,no,4.6,8.7,12-06-2025,Bachelor,4.8
+856,Elite Apartments 65,JP NAGAR,3BHK,29418.83,880.1,furnished,GROUND FLOOR,Yes,5.42,5.3,23-10-2025,bachelor,1.5
+857,Green Park Apartments 40,indiranagar,2BHK,,1058.2,FURNISHED,ground floor,yes,9.23,7.7,06-02-2025,Family,3.2
+858,Lake View Residency 80,electronic city,1bhk,15788.57,1150.3,Furnished,Mid Rise,Yes,7.21,7,25-10-2026,Any,
+859,Elite Apartments 66,JP Nagar,3 BHK,25498.91,1813.7,semi-furnished,ground floor,Yes,3.02,8.7,29-05-2025,FAMILY,2.4
+860,Metro View 19,HSR Layout,3bhk,25895.75,657,Semi-Furnished,Mid Rise,no,0.51,1.7,30-03-2026,any,1
+861,City Homes 25,Jayanagar,2BHK,29407.96,1986.2,Unfurnished,GROUND FLOOR,NO,0.41,8,03-10-2025,any,
+862,City Homes 55,Indiranagar,1BHK,18419.1,1387.3,UNFURNISHED,low rise,YES,2.55,5.3,05-03-2025,bachelor,2.8
+863,Comfort Villa 8,BTM Layout,3BHK,33845.43,2076.3,furnished,ground floor,No,6.28,8.6,19-02-2025,any,3.5
+864,Green Park Apartments 41,btm layout,3bhk,25672.16,2434.9,furnished,Mid Rise,NO,7.13,8.1,27-07-2025,Bachelor,1.4
+865,Lake View Residency 86,electronic city,1BHK,9086.77,1531.3,UNFURNISHED,low rise,NO,1.46,5.7,29-06-2026,any,3.8
+866,Green Park Apartments 35,hsr layout,1 BHK,19362.16,1017.9,Furnished,High Rise,no,2.69,7.5,11-07-2026,FAMILY,4.7
+867,Green Park Apartments 10,BTM Layout,2bhk,19860.94,1811.3,Furnished,ground floor,Yes,8.66,4.5,21-05-2026,bachelor,4.9
+868,Urban Heights 62,Koramangala,2bhk,28836.51,978.2,furnished,low rise,NO,3.43,,14-Feb-27,Bachelor,4.8
+869,Royal Residency 61,electronic city,1 BHK,14495.91,1607.2,semi-furnished,Ground Floor,yes,3.34,8.6,01-May-25,bachelor,4.7
+870,Green Park Apartments 6,HSR Layout,2 BHK,23982.68,2919,FURNISHED,Low Rise,Yes,3.4,8,24-05-2027,BACHELOR,2.7
+871,City Homes 15,Jayanagar,3 BHK,40537.92,1592.8,semi-furnished,High Rise,No,9.43,3.7,01-Dec-26,Family,1.4
+872,Green Park Apartments 57,JP Nagar,2 BHK,27131.31,980.3,Semi-Furnished,Mid Rise,no,4.22,9.8,24-04-2026,FAMILY,4.3
+873,Comfort Villa 24,  electronic city  ,3BHK,30320.78,2129.2,Semi-Furnished,Mid Rise,Yes,0.99,8.5,03-11-2025,Any,1.5
+874,Elite Apartments 90,Koramangala,2BHK,27709.1,2000.6,Unfurnished,High Rise,Yes,4.29 km,1.6,18-06-2025,FAMILY,4.5
+875,Royal Residency 34,jayanagar,1BHK,9064.48,724.9,unfurnished,GROUND FLOOR,Yes,,6,28-12-2026,BACHELOR,2.1
+876,Elite Apartments 82,KORAMANGALA,1BHK,20516.02,2661,UNFURNISHED,Mid Rise,No,5.06,1.6,04-09-2025,BACHELOR,3.7
+877,Budget Homes 39,Hebbal,1BHK,15695.87,2802.2,Furnished,High Rise,Yes,5.4,7.1,14-Apr-25,family,3.5
+878,Urban Heights 14,Whitefield,3bhk,,1238.6,FURNISHED,High Rise,yes,4.63,4.5,14-02-2027,any,4.9
+879,City Homes 71,JP NAGAR,3BHK,24574.34,1976.9,Furnished,Ground Floor,NO,2.11,9.8,29-08-2026,Any,4.7
+880,Lake View Residency 57,Whitefield,2bhk,21092.31,1722,Unfurnished,GROUND FLOOR,YES,6.56,6.8,31-10-2026,Any,4.3
+881,Sunshine Residency 44,Electronic City,2bhk,21155.57,1114.3,furnished,Mid Rise,yes,9.96 km,1.8,29-06-2025,BACHELOR,3.4
+882,Metro View 81,BTM Layout,1BHK,15842.38,2913.4,furnished,low rise,YES,,4.9,23-10-2025,bachelor,2.1
+883,Metro View 77,Whitefield,3 BHK,35611.48,1573.6,Unfurnished,High Rise,yes,6.01,4.6,15-03-2026,Any,8.5
+884,Comfort Villa 36,JP NAGAR,1BHK,13871.04,1954.3,FURNISHED,GROUND FLOOR,yes,5.58 km,7.5,30-06-2025,any,2.6
+885,Urban Heights 11,indiranagar,3 BHK,34830.66,953.4,Unfurnished,low rise,No,,6.9,03-12-2025,BACHELOR,4.1
+886,Metro View 50,JP Nagar,3bhk,23254.3,1826.7,Semi-Furnished,Low Rise,NO,3.55,1,05-07-2025,bachelor,7.3
+887,Lake View Residency 18,Jayanagar,2 BHK,18482.46,1513,unfurnished,Low Rise,Yes,8.56,4.8,05-02-2025,Any,1.3
+888,Sunshine Residency 8,JP Nagar,3 BHK,32576.36,1465.2,furnished,Mid Rise,NO,9.94,5.5,17-Jul-26,Bachelor,3.2
+889,Budget Homes 58,indiranagar,2BHK,23449.8,2612.7,UNFURNISHED,GROUND FLOOR,YES,9.37,3.9,05-11-2026,Bachelor,4.7
+890,Royal Residency 40,indiranagar,2 BHK,23399.24,1316.6,semi-furnished,ground floor,No,9.99,7,06-01-2025,BACHELOR,3.2
+891,Elite Apartments 59,Whitefield,1BHK,17043.58,521.3,Furnished,GROUND FLOOR,no,6.2,7,03-03-2025,bachelor,3.6
+892,Royal Residency 29,Jayanagar,3 BHK,20400.24,1052.7,Unfurnished,High Rise,NO,1.88,8.1,30-01-2027,any,1.5
+893,Lake View Residency 57,hsr layout,1bhk,17531.69,1356.5,semi-furnished,Ground Floor,yes,0.67,9.8,23-04-2026,Any,2.2
+894,Comfort Villa 54,Marathahalli,2BHK,24542.34,1518.7,unfurnished,ground floor,YES,8.8,3.5,07-08-2025,Any,2.2
+895,Comfort Villa 72,JP Nagar,3BHK,36280.06,684.4,Semi-Furnished,HIGH RISE,no,3.44,1.3,04-12-2025,Bachelor,5
+896,Budget Homes 45,Indiranagar,1BHK,7848.12,2137.4,UNFURNISHED,low rise,No,0.92,8,11-09-2025,Bachelor,3.1
+897,Budget Homes 26,jayanagar,3bhk,,879,FURNISHED,Mid Rise,No,8.18,8,11-04-2026,bachelor,2.6
+898,City Homes 93,JP Nagar,1 BHK,14926.58,722.4,furnished,Low Rise,No,5.53,6.5,10-Aug-25,BACHELOR,3
+899,City Homes 4,hsr layout,1 BHK,19946.46,2596.5,UNFURNISHED,Low Rise,Yes,8.72,6.2,10-06-2026,BACHELOR,4.2
+900,City Homes 95,Indiranagar,2 BHK,,1234.7,Furnished,Mid Rise,No,0.95,6.4,11-09-2026,Family,2.7
+901,Metro View 46,KORAMANGALA,4 BHK,42785.83,1059.6,furnished,Mid Rise,,7.68,4.7,07-05-2026,Any,1.3
+902,Royal Residency 40,Whitefield,3BHK,29737.98,2805.7,UNFURNISHED,Mid Rise,No,0.99,6.2,01-01-2026,family,3.5
+903,Metro View 60,JP NAGAR,2 BHK,28592.28,1541,Unfurnished,Low Rise,no,8.66 km,8.1,06-08-2025,bachelor,2.2
+904,Sunshine Residency 25,Hebbal,1 BHK,,2947.8,Unfurnished,Low Rise,No,0.76,2.6,07-Jun-27,Any,2.4
+905,Budget Homes 65,Whitefield,3bhk,,1686.6,FURNISHED,HIGH RISE,YES,3.33 km,4.6,30-08-2025,bachelor,4.3
+906,Elite Apartments 48,indiranagar,1 BHK,14676.86,1480.4,furnished,low rise,No,5.17,2.9,08-06-2026,any,3.3
+907,City Homes 21,Hebbal,2BHK,27321.55,635,Furnished,Mid Rise,yes,0.3,5.9,06-08-2025,Any,4.7
+908,Metro View 57,KORAMANGALA,3BHK,29909.1,2900,Semi-Furnished,Mid Rise,yes,9.2,2.6,05-03-2026,Family,3.1
+909,Comfort Villa 61,Jayanagar,2BHK,22198.93,1079.8,semi-furnished,low rise,Yes,3.45,4,05-04-2027,Family,1.7
+910,Metro View 97,Koramangala,2bhk,22274.16,1658.4,semi-furnished,GROUND FLOOR,no,6.07,9.7,31-01-2026,BACHELOR,1.2
+911,Budget Homes 86,JP Nagar,1bhk,12759.67,1071.6,unfurnished,HIGH RISE,YES,1.06,9.4,17-01-2027,family,3.4
+912,Urban Heights 67,Electronic City,1 BHK,11238.29,2385.1,Furnished,ground floor,No,4.89,4.4,16-07-2026,bachelor,2
+913,Urban Heights 85,HSR Layout,1BHK,7204.69,1510.5,semi-furnished,GROUND FLOOR,yes,2.35,3.1,20-08-2026,BACHELOR,2.7
+914,Sunshine Residency 25,Hebbal,3BHK,43810.26,2633.7,furnished,HIGH RISE,yes,6.58,7.6,08-Jun-26,bachelor,4.6
+915,Comfort Villa 43,HSR Layout,3BHK,33171.48,1813.6,unfurnished,Ground Floor,YES,2.92,3.5,17-09-2025,any,1.1
+916,Comfort Villa 95,Electronic City,4 BHK,48687.24,1989.5,furnished,HIGH RISE,yes,5.56,,30-May-26,Bachelor,3.3
+917,City Homes 61,BTM Layout,4 BHK,46798.92,591.7,furnished,High Rise,yes,5.19,3.4,08-04-2026,Bachelor,
+918,City Homes 5,Marathahalli,1 BHK,17780.21,1969.8,semi-furnished,High Rise,no,2.19,3.9,14-Oct-25,Bachelor,4.5
+919,Comfort Villa 72,Electronic City,1BHK,7117.93,1901.2,unfurnished,GROUND FLOOR,No,7.46 km,7.8,06-04-2027,Family,4.3
+920,Elite Apartments 49,Marathahalli,3bhk,21486.25,1710.2,FURNISHED,ground floor,yes,8.24,5.4,21-May-26,Bachelor,4.2
+921,Lake View Residency 87,Indiranagar,1bhk,23682.72,1178.3,furnished,High Rise,NO,6.58,4.9,22-Apr-27,bachelor,2.2
+922,Royal Residency 10,hsr layout,3bhk,37349.55,764.9,UNFURNISHED,High Rise,Yes,9.19,2.9,15-05-2026,Any,3.5
+923,Metro View 98,HSR Layout,1BHK,15803.89,2841.9,Unfurnished,ground floor,yes,4.95,7.9,11-03-2027,FAMILY,2.5
+924,Green Park Apartments 24,Marathahalli,2BHK,26062.58,2752.2,Unfurnished,HIGH RISE,yes,9.98,2,28-05-2027,FAMILY,2.8
+925,Urban Heights 90,JP NAGAR,2 BHK,28104.49,2063.8,Furnished,Ground Floor,Yes,1.07,2.8,30-Jun-25,FAMILY,3.5
+926,Budget Homes 55,Whitefield,3 BHK,34802.41,630,UNFURNISHED,low rise,no,0.85,8.3,13-08-2026,any,3.7
+927,Budget Homes 18,BTM Layout,2bhk,27473.17,2248.7,FURNISHED,HIGH RISE,Yes,8.99,8.3,17-04-2025,family,2.8
+928,Sunshine Residency 50,hsr layout,1 BHK,15499.01,2278.1,Unfurnished,ground floor,no,3.95,9.6,27-Jul-26,Any,2.7
+929,Metro View 49,jayanagar,2bhk,18112.15,1301.3,Unfurnished,ground floor,yes,5.87,9.1,22-07-2026,BACHELOR,3.7
+930,Sunshine Residency 52,BTM Layout,3bhk,40354.59,696.9,Unfurnished,Mid Rise,YES,2.72,7.6,03-Oct-26,FAMILY,3.6
+931,City Homes 54,HSR Layout,3bhk,24974.91,1622.4,Furnished,ground floor,Yes,0.42,4.6,15-06-2025,FAMILY,3.6
+932,City Homes 55,electronic city,2bhk,999999,2775.8,UNFURNISHED,GROUND FLOOR,yes,3.06,8,09-03-2025,Bachelor,4.3
+933,Elite Apartments 18,JP Nagar,3 BHK,22512.85,2766.6,unfurnished,Ground Floor,yes,0.41,8.5,04-01-2025,family,1.4
+934,Budget Homes 93,JP Nagar,2BHK,24682.45,2826.9,Furnished,High Rise,YES,1.11,4.8,18-12-2026,any,2.6
+935,Sunshine Residency 31,KORAMANGALA,3bhk,38573.48,2305.2,semi-furnished,High Rise,yes,4.37 km,2.7,09-02-2025,family,3
+936,Elite Apartments 95,btm layout,4 BHK,40127.08,926.4,furnished,HIGH RISE,YES,8.64,1.4,16-06-2027,BACHELOR,3.2
+937,Elite Apartments 89,jayanagar,4 BHK,50537.86,2404,Semi-Furnished,Ground Floor,no,8.49,8,25-03-2025,any,1.8
+938,Green Park Apartments 56,BTM Layout,2 BHK,22405.6,2464.8,Semi-Furnished,HIGH RISE,no,8.88,7.5,19-06-2027,family,7.3
+939,City Homes 41,Koramangala,1 BHK,7942.25,1237.2,FURNISHED,Ground Floor,yes,7.53,2.7,29-06-2025,family,4.5
+940,Green Park Apartments 78,  Electronic City  ,1bhk,18717.35,1759.2,furnished,Ground Floor,Yes,0.91,3.2,16-05-2025,FAMILY,2
+941,Green Park Apartments 57,JP Nagar,4 BHK,50193.92,1024.9,unfurnished,HIGH RISE,YES,3.67,2.5,05-10-2026,FAMILY,2.8
+942,Lake View Residency 95,  btm layout  ,1bhk,18764.2,2916.4,unfurnished,HIGH RISE,NO,2.64 km,5.9,09-09-2025,BACHELOR,4.2
+943,Metro View 90,KORAMANGALA,3 BHK,28722.39,2539.9,semi-furnished,High Rise,no,1.39,8.9,11-Feb-27,BACHELOR,3.6
+944,Metro View 33,electronic city,2BHK,31327.42,2077.7,Semi-Furnished,Mid Rise,yes,5.72,8.1,14-08-2025,family,1.7
+945,Elite Apartments 24,Koramangala,1bhk,8975.97,645.6,semi-furnished,Mid Rise,YES,0.99,6.5,15-08-2025,Family,3.5
+946,Lake View Residency 83,WHITEFIELD,2bhk,,1314.2,FURNISHED,low rise,no,5.05,3.8,22-02-2027,Any,4.4
+947,Urban Heights 6,electronic city,4 BHK,45876.01,2804.6,semi-furnished,GROUND FLOOR,NO,3.38,1,18-10-2026,Family,4.7
+948,Royal Residency 93,Electronic City,4 BHK,48155.53,2844.1,Furnished,GROUND FLOOR,no,7.47,6.7,18-Dec-25,any,2.9
+949,Sunshine Residency 20,btm layout,1bhk,16530.97,1728.4,Unfurnished,Ground Floor,No,4.88 km,7.1,14-01-2027,bachelor,
+950,Royal Residency 64,JP Nagar,2bhk,21032.07,2911.8,FURNISHED,ground floor,no,9.95,9.9,28-01-2026,family,2
+951,Urban Heights 67,HSR Layout,2 BHK,20854.88,2343.5,FURNISHED,Ground Floor,NO,0.8,7.8,28-11-2025,FAMILY,2
+952,Sunshine Residency 67,btm layout,1 BHK,20460.39,2099.6,Semi-Furnished,low rise,yes,3.42,9.8,06-01-2026,Family,4.6
+953,Green Park Apartments 23,Indiranagar,4 BHK,45511.46,2893.1,Furnished,HIGH RISE,YES,4.09,3.8,12-03-2026,Family,2.7
+954,Sunshine Residency 36,hsr layout,2BHK,11375.54,2230,Furnished,GROUND FLOOR,NO,7.58,3.5,11-03-2025,BACHELOR,
+955,Green Park Apartments 53,Marathahalli,1 BHK,16419.06,1428.9,unfurnished,ground floor,Yes,9.69,4.8,15-Jul-26,BACHELOR,4.1
+956,Sunshine Residency 48,jayanagar,3 BHK,28307.99,2042.8,Unfurnished,Low Rise,no,2.47,5.4,19-11-2025,Any,3.1
+957,City Homes 81,HSR Layout,3 BHK,38261.3,951.2,UNFURNISHED,ground floor,YES,9.73,4,12-11-2026,Family,3.9
+958,Metro View 56,Indiranagar,3bhk,22110.18,1847.2,Unfurnished,low rise,no,5.5,8.8,04-05-2025,Family,3.1
+959,Comfort Villa 16,Marathahalli,2 BHK,15613.35,2501.6,FURNISHED,Mid Rise,No,1.61,3,23-07-2025,Bachelor,3
+960,Comfort Villa 23,Whitefield,4 BHK,41101.75,570.5,Semi-Furnished,Ground Floor,Yes,0.39,9.8,30-10-2026,Any,4.4
+961,Urban Heights 53,Indiranagar,2bhk,33611.21,1220.5,unfurnished,High Rise,YES,8.95,9.2,29-04-2026,Any,4.8
+962,Metro View 97,JP NAGAR,2BHK,22380.43,2976,unfurnished,Ground Floor,NO,8.01,7.2,20-12-2025,any,4.1
+963,City Homes 18,indiranagar,4 BHK,33765.91,1064,Semi-Furnished,Mid Rise,,8.87,5.9,27-06-2026,any,2.4
+964,Green Park Apartments 77,KORAMANGALA,4 BHK,42437.56,479.8,furnished,Low Rise,YES,4.74,3.9,26-06-2027,bachelor,3.7
+965,City Homes 54,Jayanagar,2BHK,23963,1983.2,furnished,low rise,YES,3.09,1.2,24-Apr-26,any,4.7
+966,Royal Residency 60,BTM Layout,4 BHK,43553.32,2263.7,UNFURNISHED,Low Rise,NO,1.65,1.9,17-Jan-27,Bachelor,3.3
+967,Budget Homes 57,Jayanagar,2 BHK,26008.74,2083.2,UNFURNISHED,low rise,yes,1.27,6.4,23-01-2027,Family,3.9
+968,Green Park Apartments 59,electronic city,2bhk,22342.22,2126.4,FURNISHED,High Rise,no,1.91,,07-06-2026,any,3.4
+969,City Homes 61,jayanagar,1 BHK,11437.45,2298.7,Furnished,low rise,Yes,4.5,8.5,25-01-2026,any,5
+970,City Homes 38,jayanagar,4 BHK,54975.79,1464.6,FURNISHED,low rise,Yes,7.13,3,11-06-2025,bachelor,2.8
+971,Budget Homes 67,Koramangala,3BHK,24072.1,1142.5,semi-furnished,Mid Rise,yes,3.09,4.1,06-12-2026,family,3.1
+972,Royal Residency 93,Whitefield,1 BHK,20219.61,2276.7,Unfurnished,Ground Floor,Yes,7.1,8,05-12-2025,BACHELOR,2.5
+973,Urban Heights 66,BTM Layout,1 BHK,14218.82,,furnished,Low Rise,,2.54,7.5,29-07-2026,family,1
+974,Budget Homes 49,jayanagar,1 BHK,22160.47,2657.5,Unfurnished,HIGH RISE,NO,8.61,5.2,15-11-2025,Bachelor,
+975,City Homes 18,Hebbal,2bhk,22143.74,2843.2,Furnished,Low Rise,yes,4.2,2.6,27-05-2027,BACHELOR,3.3
+976,Budget Homes 4,Jayanagar,3BHK,24150.39,1722,Unfurnished,GROUND FLOOR,YES,6.09,8,10-10-2025,FAMILY,3.4
+977,Elite Apartments 48,HSR Layout,2BHK,22157.07,1698.7,semi-furnished,ground floor,yes,5.64,1.1,21-08-2025,FAMILY,3.1
+978,Lake View Residency 68,Indiranagar,2BHK,14211.8,1914.8,Semi-Furnished,HIGH RISE,NO,6.93,2.1,26-12-2025,BACHELOR,4.4
+979,Sunshine Residency 35,  Marathahalli  ,2 BHK,19273.2,1364.4,Semi-Furnished,ground floor,yes,5.04,6.7,14-05-2025,Bachelor,1.8
+980,Lake View Residency 56,WHITEFIELD,1 BHK,19717.77,1481.5,Semi-Furnished,High Rise,yes,7.76,2.6,11-Feb-27,any,5
+981,Royal Residency 16,Jayanagar,2 BHK,26181.92,1599.6,unfurnished,Mid Rise,no,6.12,,16-Mar-27,family,2.1
+982,Urban Heights 94,Hebbal,1bhk,14825.44,536.4,UNFURNISHED,Ground Floor,no,9.23,6.4,31-10-2026,Family,
+983,Urban Heights 88,btm layout,2bhk,18502.44,2444.1,UNFURNISHED,HIGH RISE,No,8.95,3,04-Aug-26,family,1.6
+984,Green Park Apartments 59,  JP Nagar  ,2 BHK,22874.58,1844.9,semi-furnished,ground floor,no,3.68,2.2,12-03-2025,Family,1.8
+985,Sunshine Residency 41,hsr layout,2BHK,35213.91,1663.7,Unfurnished,Ground Floor,YES,,8.7,14-Aug-26,any,1.7
+986,Green Park Apartments 19,HSR Layout,2BHK,25468.84,848.4,semi-furnished,ground floor,no,2.18,5.5,30-01-2027,any,1.9
+987,Royal Residency 35,electronic city,3BHK,25568.92,1160.4,furnished,Low Rise,Yes,4.55,5.2,29-Nov-26,Family,1.7
+988,Comfort Villa 70,KORAMANGALA,3 BHK,28161.91,0,UNFURNISHED,Mid Rise,yes,8.57,3.8,15-10-2025,bachelor,4.1
+989,Comfort Villa 97,HSR Layout,1bhk,12231.77,2185.7,Semi-Furnished,low rise,No,7.17,1.5,31-05-2026,bachelor,3.1
+990,City Homes 75,hsr layout,2 BHK,30256.81,445.9,FURNISHED,Mid Rise,NO,0.34,7.7,16-04-2026,any,4.3
+991,Lake View Residency 71,hsr layout,2 BHK,16565.52,1461.4,Unfurnished,GROUND FLOOR,yes,3.78,5.5,16-06-2027,Family,3.2
+992,Sunshine Residency 76,JP NAGAR,3bhk,34778.16,1628.3,semi-furnished,High Rise,No,5.36,2,22-06-2025,Bachelor,2.1
+993,City Homes 73,Electronic City,3 BHK,31241.13,1696.7,FURNISHED,ground floor,yes,9.02,5.7,20-03-2027,BACHELOR,2.4
+994,Lake View Residency 25,JP NAGAR,1BHK,16694.64,,UNFURNISHED,low rise,Yes,,6.8,02-06-2026,bachelor,3.6
+995,Royal Residency 87,WHITEFIELD,1 BHK,14283.38,1102.2,semi-furnished,low rise,NO,8.96,7.4,19-03-2025,Family,1.5
+996,Royal Residency 10,WHITEFIELD,3bhk,36519.99,2116.1,furnished,Low Rise,yes,9.48,4.6,08-Nov-25,BACHELOR,1.6
+997,Metro View 53,electronic city,3bhk,35590.42,1418.4,Furnished,HIGH RISE,yes,7.84,6,05-02-2025,Family,3.9
+998,Budget Homes 27,Indiranagar,4 BHK,39514.96,2787.4,Unfurnished,Mid Rise,no,2.07,4.5,06-05-2027,family,3.9
+999,Sunshine Residency 31,indiranagar,2 BHK,22496.51,,furnished,Mid Rise,No,2.99,2.5,07-03-2025,BACHELOR,1.2
+1000,Budget Homes 64,WHITEFIELD,3 BHK,27085.15,1807,Unfurnished,Ground Floor,YES,0.28,4.4,13-06-2025,FAMILY,3.4
+1001,Lake View Residency 46,Whitefield,4 BHK,48708.37,957.3,Semi-Furnished,Low Rise,no,4.89,4.9,15-10-2026,Any,3.8
+1002,City Homes 25,jayanagar,2BHK,10,1637.6,UNFURNISHED,Mid Rise,Yes,5.08,3.3,22-01-2027,family,4
+1003,Royal Residency 96,btm layout,1bhk,15877.67,830.9,unfurnished,low rise,YES,8.12,4.5,21-05-2026,BACHELOR,2.2
+1004,Urban Heights 21,BTM Layout,2 BHK,10807.93,99999,Furnished,ground floor,No,9.17 km,5.2,23-01-2025,Family,1.1
+1005,Comfort Villa 62,hsr layout,2BHK,24205.95,832.8,semi-furnished,High Rise,YES,1.76,3,28-12-2025,bachelor,2.8
+1006,Sunshine Residency 76,Marathahalli,1bhk,14640.36,2775.4,semi-furnished,low rise,No,8.96,,17-01-2027,any,3.6
+1007,Elite Apartments 17,BTM Layout,3 BHK,28019.61,1043,furnished,low rise,YES,9.98,9.2,28-08-2025,Family,2.8
+1008,Sunshine Residency 26,WHITEFIELD,3bhk,-1000,2155.4,FURNISHED,low rise,no,4.83,1.3,13-06-2026,Any,6.1
+1009,Green Park Apartments 17,Hebbal,2 BHK,25859.56,1330,Semi-Furnished,Mid Rise,yes,1.9,2.6,01-03-2026,family,2.4
+1010,Metro View 20,Whitefield,2bhk,18656.68,877.2,semi-furnished,ground floor,NO,3.06,1.7,25-08-2026,family,4.6
+1011,Urban Heights 34,indiranagar,2bhk,14594.94,1979.1,unfurnished,HIGH RISE,No,2.55,6.8,26-06-2025,FAMILY,2.7
+1012,Comfort Villa 88,HSR Layout,3bhk,29041.77,1216.8,unfurnished,Ground Floor,Yes,0.78,5.2,21-Jul-25,BACHELOR,1.9
+1013,Sunshine Residency 71,JP Nagar,2 BHK,17923.94,2793.9,unfurnished,Ground Floor,NO,5.47,1.3,06-12-2026,any,4.4
+1014,Comfort Villa 23,KORAMANGALA,4 BHK,50116.44,2605.1,semi-furnished,HIGH RISE,No,8.04,,02-03-2027,Any,1.4
+1015,Budget Homes 96,BTM Layout,3BHK,26048.7,2646.1,Semi-Furnished,Ground Floor,yes,5.48,3.3,30-03-2025,Any,3.4
+1016,Urban Heights 29,WHITEFIELD,1BHK,13305.13,2830.5,UNFURNISHED,ground floor,yes,2.75,3,09-07-2026,family,4.1
+1017,Royal Residency 43,Indiranagar,1 BHK,12867.36,1177.5,UNFURNISHED,High Rise,,4.09,1.6,13-10-2025,any,2
+1018,Comfort Villa 21,Marathahalli,3 BHK,33539.55,2473.9,semi-furnished,ground floor,,3.18,1.6,15-11-2025,Bachelor,4.1
+1019,Comfort Villa 61,Koramangala,3BHK,35138.14,1277.3,Semi-Furnished,Ground Floor,no,1.25,5.4,30-Dec-26,Bachelor,
+1020,Green Park Apartments 45,Marathahalli,2BHK,30366.86,2899.7,UNFURNISHED,Mid Rise,NO,1.67,1.9,26-Apr-25,Bachelor,2.8
+1021,Sunshine Residency 78,BTM Layout,1bhk,14010.69,1994.1,unfurnished,ground floor,no,9.29,6.2,12-05-2026,family,5
+1022,City Homes 4,Electronic City,3 BHK,28552.79,1182.6,Furnished,High Rise,YES,5.67,9.8,25-10-2026,bachelor,3
+1023,Urban Heights 27,Marathahalli,2bhk,15000.57,447.7,Semi-Furnished,GROUND FLOOR,no,9.61,9.3,04-Dec-26,Any,3.7
+1024,City Homes 99,jayanagar,2BHK,25847.47,,UNFURNISHED,High Rise,yes,4.44,1.4,20-12-2026,Bachelor,2.5
+1025,Lake View Residency 51,Indiranagar,2BHK,23978.79,518.7,Semi-Furnished,ground floor,no,9.33,9.2,06-11-2026,bachelor,1.7
+1026,Lake View Residency 29,jayanagar,1bhk,7737,607.2,semi-furnished,low rise,Yes,7.79,2.5,28-08-2026,bachelor,9
+1027,Green Park Apartments 43,Whitefield,3bhk,36446.19,,Unfurnished,High Rise,NO,9.81,2.5,26-10-2026,bachelor,2.3
+1028,Urban Heights 60,Koramangala,1 BHK,16347.07,2558.9,FURNISHED,High Rise,no,8.59 km,3.3,24-04-2026,Bachelor,2.9
+1029,Metro View 16,Whitefield,1BHK,17161.19,2677.7,furnished,GROUND FLOOR,NO,7.21,7.1,01-09-2026,Any,1.6
+1030,Royal Residency 92,JP NAGAR,3 BHK,32535.6,-100,Semi-Furnished,HIGH RISE,,7.77,7.7,07-05-2026,FAMILY,3.2
+1031,Budget Homes 8,BTM Layout,1BHK,21112.46,937.6,UNFURNISHED,Ground Floor,yes,9.22,9.9,13-01-2025,BACHELOR,2.3
+1032,Urban Heights 3,hsr layout,1BHK,6762.73,1435.1,Furnished,Mid Rise,no,6.44,2.8,26-03-2025,Any,3.9
+1033,Metro View 69,WHITEFIELD,2bhk,27697.69,2115.6,semi-furnished,Low Rise,No,5.53,7.1,14-01-2026,Family,3.9
+1034,Sunshine Residency 82,KORAMANGALA,1 BHK,18132.96,1221.6,furnished,low rise,No,8.47,,16-03-2026,Any,1.3
+1035,Sunshine Residency 12,JP NAGAR,1 BHK,13599.06,2606.1,FURNISHED,HIGH RISE,no,0.4,9.6,08-05-2027,any,3.6
+1036,Royal Residency 1,Electronic City,2bhk,20401.02,1552.4,semi-furnished,Ground Floor,No,9.45,4.1,23-Jan-27,FAMILY,7.9
+1037,Royal Residency 28,HSR Layout,2BHK,9135.4,506.6,UNFURNISHED,HIGH RISE,NO,2.1,1.3,18-04-2027,FAMILY,1.9
+1038,Sunshine Residency 75,BTM Layout,4 BHK,38585.91,,unfurnished,Mid Rise,No,7.5,5.9,12-03-2026,Any,3.2
+1039,Metro View 27,Hebbal,3BHK,24659.61,1500.6,Furnished,low rise,YES,9.23,2.6,21-01-2027,family,1.9
+1040,Budget Homes 35,Indiranagar,4 BHK,55638.31,1228.9,semi-furnished,low rise,Yes,1.01,3.7,20-Jun-27,bachelor,4.4
+1041,City Homes 63,Koramangala,3bhk,25777.78,1608.2,Semi-Furnished,High Rise,no,3.94,,26-05-2025,Bachelor,3.3
+1042,Urban Heights 7,electronic city,1bhk,16955.1,2572.7,unfurnished,ground floor,YES,2.6,6.3,21-04-2025,bachelor,3.9
+1043,Urban Heights 73,Indiranagar,4 BHK,38505.33,2272.2,Semi-Furnished,Mid Rise,YES,5.36,4.9,30-Sep-26,FAMILY,2
+1044,Lake View Residency 11,JP Nagar,2BHK,20908.12,819,UNFURNISHED,HIGH RISE,Yes,7.9,7.9,21-Nov-25,any,1.3
+1045,Metro View 9,btm layout,2BHK,18189.72,1469.5,unfurnished,GROUND FLOOR,no,9.52,6.6,03-01-2026,any,1.1
+1046,Lake View Residency 48,Jayanagar,2 BHK,15801.82,735.7,furnished,High Rise,yes,7.68,8.6,05-Jul-25,family,6.3
+1047,Elite Apartments 12,Hebbal,2bhk,18236.68,2889.2,furnished,HIGH RISE,YES,4.03,5.9,22-04-2025,family,3.4
+1048,Urban Heights 28,Koramangala,2bhk,27595.9,1365.9,furnished,ground floor,yes,5.61,6.1,08-May-25,Any,4.8
+1049,Metro View 51,Indiranagar,1BHK,12757.38,2250.6,Semi-Furnished,HIGH RISE,YES,4.61,6.9,07-Sep-25,Any,3.9
+1050,Royal Residency 10,Marathahalli,1 BHK,13956.88,598.6,Semi-Furnished,High Rise,NO,7.07,6.7,03-03-2026,BACHELOR,1.3
+1051,Elite Apartments 55,Marathahalli,2bhk,17545.62,574.1,FURNISHED,High Rise,NO,7.59,9,23-01-2027,Bachelor,2.5
+1052,Comfort Villa 82,btm layout,2bhk,21573.17,1062.4,Unfurnished,ground floor,NO,9.91,7.9,09-Dec-25,Bachelor,3.8
+1053,Urban Heights 45,Marathahalli,2 BHK,21470.64,2328,UNFURNISHED,Low Rise,no,2.54,9.9,12-11-2025,any,4.4
+1054,Sunshine Residency 76,JP NAGAR,3bhk,34778.16,1628.3,semi-furnished,High Rise,No,5.36,2,22-06-2025,Bachelor,2.1
+1055,Comfort Villa 70,jayanagar,1 BHK,24632.75,2377.9,Furnished,GROUND FLOOR,yes,6.57,9.2,01-Nov-25,Family,2.4
+1056,Urban Heights 60,Koramangala,1 BHK,16347.07,2558.9,FURNISHED,High Rise,no,8.59 km,3.3,24-04-2026,Bachelor,2.9
+1057,Comfort Villa 85,btm layout,1 BHK,14116.23,411.8,Furnished,Mid Rise,yes,8.35,8.3,04-07-2026,FAMILY,1.4
+1058,Green Park Apartments 100,jayanagar,3bhk,33444.61,734.4,furnished,Low Rise,NO,6.49,9.5,08-02-2027,Any,5
+1059,Elite Apartments 29,HSR Layout,1bhk,6854.59,2376.8,Furnished,ground floor,yes,4.99,2.4,05-07-2025,any,
+1060,City Homes 27,JP Nagar,2bhk,20610.7,1235.9,semi-furnished,Ground Floor,No,6.02,3.6,10-03-2026,BACHELOR,1.9
+1061,Royal Residency 76,JP NAGAR,4 BHK,40783.52,595,Semi-Furnished,High Rise,YES,1.82,6.1,12-Aug-26,Any,1.2
+1062,Royal Residency 10,Electronic City,3bhk,38442.78,2629.1,furnished,HIGH RISE,YES,9.16,6.2,11-11-2026,any,3
+1063,Royal Residency 82,JP NAGAR,1bhk,10147.02,1679.1,Unfurnished,GROUND FLOOR,No,5.62,6.7,01-03-2025,FAMILY,4.5
+1064,City Homes 62,JP NAGAR,3BHK,27840.45,2536.6,Furnished,High Rise,no,6.49,1.9,27-Jun-25,BACHELOR,2.2
+1065,City Homes 13,indiranagar,1BHK,22893.94,769.5,furnished,Ground Floor,yes,3.77,2.6,25-07-2025,Bachelor,
+1066,Lake View Residency 59,Electronic City,2 BHK,,1698.9,Unfurnished,Low Rise,No,0.34,1.6,12-08-2025,FAMILY,1.9
+1067,Lake View Residency 68,btm layout,2 BHK,14230.4,2163.7,Semi-Furnished,ground floor,no,6.85,8.4,26-04-2027,any,1.2
+1068,Elite Apartments 32,btm layout,2BHK,,989.9,Semi-Furnished,ground floor,NO,9.05,6.8,26-Mar-25,bachelor,9.4
+1069,Metro View 39,HSR Layout,1 BHK,4370.96,1974,Semi-Furnished,GROUND FLOOR,No,2.12,6.3,31-05-2026,Family,4.5
+1070,Sunshine Residency 50,hsr layout,1 BHK,15499.01,2278.1,Unfurnished,ground floor,no,3.95,9.6,27-Jul-26,Any,2.7
+1071,Royal Residency 54,Marathahalli,2 BHK,25860.95,1600.6,Unfurnished,GROUND FLOOR,YES,5.44,4.3,22-11-2025,family,4.5
+1072,Royal Residency 74,btm layout,3BHK,36584.78,656.8,furnished,Low Rise,no,nan km,3,29-08-2026,bachelor,3.5
+1073,City Homes 5,Electronic City,3bhk,500000,1583.7,unfurnished,Low Rise,NO,2.25,6.5,16-08-2025,FAMILY,3.4
+1074,Lake View Residency 51,Indiranagar,2BHK,23978.79,518.7,Semi-Furnished,ground floor,no,9.33,9.2,06-11-2026,bachelor,1.7
+1075,Urban Heights 75,Indiranagar,2BHK,29272.83,684.1,Semi-Furnished,low rise,yes,6.59,5,05-04-2025,Family,1.1
+1076,Urban Heights 11,indiranagar,3 BHK,34830.66,953.4,Unfurnished,low rise,No,,6.9,03-12-2025,BACHELOR,4.1
+1077,Metro View 55,electronic city,1BHK,11980.14,2798.2,semi-furnished,Low Rise,YES,0.68,5.1,31-01-2026,family,2.9
+1078,Royal Residency 22,Electronic City,3BHK,36456.34,2499.6,Unfurnished,HIGH RISE,NO,3.52,7.6,16-10-2025,BACHELOR,1.1
+1079,Elite Apartments 86,BTM Layout,1bhk,17521.94,1336.7,furnished,low rise,Yes,4.97,7.7,23-06-2025,FAMILY,3.8
+1080,Urban Heights 89,Indiranagar,1bhk,19103.97,2485.9,unfurnished,Ground Floor,no,3.42,,25-02-2025,Bachelor,3
